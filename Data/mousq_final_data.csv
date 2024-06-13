@@ -1,0 +1,679 @@
+,School Name,Coordinates,Address,School Type,latitude,longitude
+0,Abdul-rahman Alobailan's mother mosque,"'24.8178692', '46.7210481'","RP9C+4GW, Qurtubah, Riyadh 13247",Mosque,24.8178692,46.7210481
+1,Hamad Albabtain Mosque,"'24.8052186', '46.7420522'","RP4R+3WP, Shudaiq, Qurtubah, Riyadh 13245",Mosque,24.8052186,46.7420522
+2,Masjid Khalid bin Al Waleed,"'24.8106042', '46.7398239'","Khalid Bin Al Waleed Mosque, Tayyibah, Qurtubah, Riyadh 13245",Mosque,24.8106042,46.7398239
+3,Othman Bin Affan Mosque,"'24.7932918', '46.6990134'","Uthman Ibn Affan Branch Rd، الرياض - حي الوادي طريق عثمان بن عفان رضي الله عنه, Riyadh",Mosque,24.7932918,46.6990134
+4,Othman Bin Affan Mosque,"'24.7933018', '46.6990133'","Uthman Ibn Affan Branch Rd، الرياض - حي الوادي طريق عثمان بن عفان رضي الله عنه, Riyadh",Mosque,24.7933018,46.6990133
+5,Al Noor Mosque,"'24.845227', '46.7578105'","4252 Al Thoumamah Rd, Al Munsiyah, Riyadh 13421",Mosque,24.845227,46.7578105
+6,جامع سليمان العيسى,"'24.8125051', '46.7594084'","3088, Al Munsiyah, 6560, Riyadh 13246",Mosque,24.8125051,46.7594084
+7,Al Falah Grand Mosque,"'24.7901563', '46.7023285'","QPR3+329, Uthman Ibn Affan Rd, Al Falah, Riyadh 13314",Mosque,24.7901563,46.7023285
+8,Al Falah Grand Mosque,"'24.7901563', '46.7023285'","QPR3+329, Uthman Ibn Affan Rd, Al Falah, Riyadh 13314",Mosque,24.7901563,46.7023285
+9,Khalid bin Waleed Mosque,"'24.8038819', '46.7189628'","RP39+HM5, Qurtubah, Riyadh 13244",Mosque,24.8038819,46.7189628
+10,Prince Sultan bin Fahd Mosque,"'24.8018432', '46.7340663'","RP2M+PPQ, Baijan, Qurtubah, Riyadh 13244",Mosque,24.8018432,46.7340663
+11,Masjid Khalid bin Al Waleed,"'24.8106042', '46.7398239'","Khalid Bin Al Waleed Mosque, Tayyibah, Qurtubah, Riyadh 13245",Mosque,24.8106042,46.7398239
+12,Masjid Khalid bin Al Waleed,"'24.8106142', '46.7398238'","Khalid Bin Al Waleed Mosque, Tayyibah, Qurtubah, Riyadh 13245",Mosque,24.8106142,46.7398238
+13,Hamad Albabtain Mosque,"'24.8052186', '46.7420522'","RP4R+3WP, Shudaiq, Qurtubah, Riyadh 13245",Mosque,24.8052186,46.7420522
+14,Arini Mosque,"'24.8130894', '46.734775'","RP7P+62M، الصويدرة, Qurtubah, Riyadh 13245",Mosque,24.8130894,46.734775
+15,مسجد قرطبة,"'24.8118209', '46.7377987'","2622 7282, Riyadh 13245",Mosque,24.8118209,46.7377987
+16,Masjid Khalid bin Al Waleed,"'24.8106042', '46.7398239'","Khalid Bin Al Waleed Mosque, Tayyibah, Qurtubah, Riyadh 13245",Mosque,24.8106042,46.7398239
+17,Arini Mosque,"'24.8130894', '46.734775'","RP7P+62M، الصويدرة, Qurtubah, Riyadh 13245",Mosque,24.8130894,46.734775
+18,مسجد قرطبة,"'24.8118209', '46.7377987'","2622 7282, Riyadh 13245",Mosque,24.8118209,46.7377987
+19,Mamur Mosque,"'24.8106461', '46.743243'","7162 عشيره، 3172, Qurtubah, Riyadh 13245",Mosque,24.8106461,46.743243
+20,Masjid Khalid bin Al Waleed,"'24.8106042', '46.7398239'","Khalid Bin Al Waleed Mosque, Tayyibah, Qurtubah, Riyadh 13245",Mosque,24.8106042,46.7398239
+21,Mamur Mosque,"'24.8106461', '46.743243'","7162 عشيره، 3172, Qurtubah, Riyadh 13245",Mosque,24.8106461,46.743243
+22,Dar righteous mosque,"'24.8138683', '46.7424976'","3100, Qurtubah, 7508, Riyadh 13245",Mosque,24.8138683,46.7424976
+23,جامع محمد العصيمي,"'24.8101316', '46.7485093'","3724 As Samahah, Qurtubah, Riyadh 13245",Mosque,24.8101316,46.7485093
+24,Sheikh Abdullah bin Abdulaziz Al Salam Mosque,"'24.8149972', '46.7464218'","7645 Wasil, Qurtubah, Riyadh 13245",Mosque,24.8149972,46.7464218
+25,مسجد حمد الجنيدل,"'24.5561669', '46.5159604'","HG48+FF9, Tuwaiq, Riyadh 14929",Mosque,24.5561669,46.5159604
+26,جامع حي السحاب,"'24.1442209', '47.3798282'","49VJ+M2Q, Firstal Safwa, Al-Kharj 16442",Mosque,24.1442209,47.3798282
+27,مسجد سعد بن زيد -رضي الله عنه-,"'24.7953199', '46.7439639'","7267 Wadi Rukbah, 7267, Ghirnatah، 2403, Riyadh 13242",Mosque,24.7953199,46.7439639
+28,Mamur Mosque,"'24.8106461', '46.743243'","7162 عشيره، 3172, Qurtubah, Riyadh 13245",Mosque,24.8106461,46.743243
+29,Al Eman Mosque,"'24.7848182', '46.7520574'","QQM2+WWG, Al Hamra, Riyadh 13217",Mosque,24.7848182,46.7520574
+30,Al Juaid Mosque,"'24.7676132', '46.7378424'","2775 6873 المروج, Al Hamra, Riyadh 13216",Mosque,24.7676132,46.7378424
+31,مسجد قرطبة,"'24.8118209', '46.7377987'","2622 7282, Riyadh 13245",Mosque,24.8118209,46.7377987
+32,Abdullah bin Ibrahim Al-Muammar Mosque,"'24.7863437', '46.7184849'","QPP9+GGJ, Al Janadil, Al Izdihar, Riyadh 12488",Mosque,24.7863437,46.7184849
+33,King Abdullah Bin Abdul Aziz Mosque,"'24.7061836', '46.655496'","6218 Al Urubah Rd, حي الرحمانية، 2898، Riyadh 12342",Mosque,24.7061836,46.655496
+34,Shaik Abdulrazaq Afifi Mosque,"'24.7638424', '46.6661319'","3601 Prince Abdulmuhsin Ibn Jalawi, Al Muruj, Riyadh 12284",Mosque,24.7638424,46.6661319
+35,King Khalid Grand Mosque,"'24.7009662', '46.6522518'","PM23+92M، شارع أم الحمام، أم الحمام الغربي،, Riyadh 11564",Mosque,24.7009662,46.6522518
+36,King Khalid Grand Mosque,"'24.7009762', '46.6522517'","PM23+92M، شارع أم الحمام، أم الحمام الغربي،, Riyadh 11564",Mosque,24.7009762,46.6522517
+37,King Abdullah Bin Abdul Aziz Mosque,"'24.7061836', '46.655496'","6218 Al Urubah Rd, حي الرحمانية، 2898، Riyadh 12342",Mosque,24.7061836,46.655496
+38,Al Ajlan Mosque,"'24.6990951', '46.6499696'","8719 سعد الثقفي، أم الحمام الغربي الرياض 12328 4073 Saad Ath Thaqafi, Umm Al Hamam Al Gharbi, Riyadh 12328",Mosque,24.6990951,46.6499696
+39,Al Salem Mosque,"'24.7040796', '46.6702007'","PM3C+J5Q, Al Olaya, Riyadh 12333",Mosque,24.7040796,46.6702007
+40,Al Salem Mosque,"'24.7040896', '46.6702006'","PM3C+J5Q, Al Olaya, Riyadh 12333",Mosque,24.7040896,46.6702006
+41,جامع الأمير محمد بن عبدالعزيز,"'24.7035482', '46.6731324'","7717 Ibn Abanah Al Ashbili, Al Olaya, Riyadh 12333",Mosque,24.7035482,46.6731324
+42,مسجد الصقر,"'24.7009018', '46.6707979'","3712 Az Zanbaq, Al Olaya, Riyadh 12333",Mosque,24.7009018,46.6707979
+43,Ad-Dawish Mosque,"'24.7060015', '46.6718316'","PM4C+CR5, Al Qadi al Mariy, Al Olaya, Riyadh 12333",Mosque,24.7060015,46.6718316
+44,جامع الأمير محمد بن عبدالعزيز,"'24.7035482', '46.6731324'","7717 Ibn Abanah Al Ashbili, Al Olaya, Riyadh 12333",Mosque,24.7035482,46.6731324
+45,Ad-Dawish Mosque,"'24.7060015', '46.6718316'","PM4C+CR5, Al Qadi al Mariy, Al Olaya, Riyadh 12333",Mosque,24.7060015,46.6718316
+46,Al Salem Mosque,"'24.7040796', '46.6702007'","PM3C+J5Q, Al Olaya, Riyadh 12333",Mosque,24.7040796,46.6702007
+47,Ali Bin Abi Talib Mosque,"'24.7194141', '46.6764937'","6660 Jaw Al Wurud Riyadh 12251 2971 Jaw, 2971, Al Wurud, Riyadh 12251",Mosque,24.7194141,46.6764937
+48,Ali Bin Abi Talib Mosque,"'24.7194141', '46.676212'","6660 Jaw Al Wurud Riyadh 12251 2971 Jaw, 2971, Al Wurud, Riyadh 12251",Mosque,24.7194141,46.676212
+49,Al Maidani Mosque,"'24.7325367', '46.6860526'","PMMP+2J9, Ibn Shakir, Al Wurud, Riyadh 12254",Mosque,24.7325367,46.6860526
+50,King Khalid Grand Mosque,"'24.7009662', '46.6519701'","PM23+92M، شارع أم الحمام، أم الحمام الغربي،, Riyadh 11564",Mosque,24.7009662,46.6519701
+51,موقع مسجد الحديقة الشرقية | تحت الإنشاء,"'24.6568733', '46.776708'","3122 الشيخ عبدالرزاق عفيفي، حي الفاروق، REQA6626، 6626, Riyadh 12862",Mosque,24.6568733,46.776708
+52,Al Rajhi Mosque,"'24.6772915', '46.7785966'","7084 Al Akheyar, Al Jazirah Riyadh 14251 2229 الأخيار الجزيرة الرياض 14251, Riyadh 14257",Mosque,24.6772915,46.7785966
+53,Imam Turki Bin Abdullah Grand Mosque,"'24.6307011', '46.7101426'","Imam Turki Bin Abdullah, Ad Dirah, Riyadh 12634",Mosque,24.6307011,46.7101426
+54,Rayyan Mosque,"'24.7881977', '46.7722153'","2647 الكرا، 7309, Ishbiliyah, Riyadh 13225",Mosque,24.7881977,46.7722153
+55,جامع ابن القيم رحمه الله.,"'24.5843125', '46.7637809'","Al Raya, Al Aziziyah, Riyadh 14514",Mosque,24.5843125,46.7637809
+56,Al Fursan Mosque,"'24.64212', '46.5461568'","تبالة, Dhahrat Laban, Riyadh 13782",Mosque,24.64212,46.5461568
+57,جامع ألامير فيصل بن خالد بن عبدالعزيز آل سعود,"'24.9435427', '46.8407796'","WRVR+CG8, Ash Sharq, Riyadh 13635",Mosque,24.9435427,46.8407796
+58,مسجد عمرو بن العاص,"'24.5541849', '46.7277321'","8887 Monia, 3239, Badr, Riyadh 14718",Mosque,24.5541849,46.7277321
+59,مسجد منير بن فرج بن خريم,"'24.9207257', '46.8360756'","WRCP+7MR, Ash Sharq, Riyadh 13635",Mosque,24.9207257,46.8360756
+60,مسجد حي الدانه,"'24.1647141', '47.2718032'",طريق الملك خالد،، الرياض 16273,Mosque,24.1647141,47.2718032
+61,Al Eman Mosque,"'24.7732592', '46.7411934'","7498 الدوحة, Al Hamra, Riyadh 13216",Mosque,24.7732592,46.7411934
+62,Neighborhood mosque prayer,"'24.8094371', '46.7740396'","RFYD3646, 3646 Qabis, 8032, Al Yarmuk, Riyadh 13243",Mosque,24.8094371,46.7740396
+63,مسجد رياض الصالحين,"'24.8247806', '46.7367699'","3170 جبل العوينات، 7022, Qurtubah, Riyadh 13248",Mosque,24.8247806,46.7367699
+64,Ghaith Mosque,"'24.780962', '46.7445101'","QPJV+9WM، البيان, Al Hamra, Riyadh 13216",Mosque,24.780962,46.7445101
+65,Alrugaib Mosque,"'24.7277327', '46.7509099'","3867, King Abdullah Dt., Riyadh 12426",Mosque,24.7277327,46.7509099
+66,Alrugaib Mosque,"'24.7277427', '46.7509098'","3867, King Abdullah Dt., Riyadh 12426",Mosque,24.7277427,46.7509098
+67,جامع الدرويش,"'24.7316898', '46.7584854'","6515 Ibn Al Muwaffaq, Ar Rawdah, Riyadh 13213",Mosque,24.7316898,46.7584854
+68,جامع الشيخ عبدالعزيز الخضير,"'24.7270253', '46.7464061'","King Abdullah Dt.، Arjawan, Riyadh",Mosque,24.7270253,46.7464061
+69,جامع آل صباح,"'24.7258108', '46.7442808'","3245 رقم 6، 8322, King Abdullah Dt., Riyadh 12425",Mosque,24.7258108,46.7442808
+70,Al-Ohaymer Mosque,"'24.6404948', '46.7284185'","7154 Ar Rihab, Thulaim، 3371, Riyadh 12646",Mosque,24.6404948,46.7284185
+71,مصلى نساء,"'24.7731257', '46.565886'","QHF8+7F3 حي, Ar Rihab, الرياض 13715",Mosque,24.7731257,46.565886
+72,Sheikh Ali Abdullah Alnasser Mosque,"'24.7731257', '46.565886'","QHF8+7F3, Ar Rihab, Diriyah 13715",Mosque,24.7731257,46.565886
+73,Al Nasser Grand Mosque,"'24.7410167', '46.7956834'","PQRW+C94, Muhammad Ibn Ahmad Ibn Ismail, Al Andalus, Riyadh 13212",Mosque,24.7410167,46.7956834
+74,مسجد اسواق المجد,"'24.6815023', '46.7762772'","4234 Khuwailid Ibn Murrah, Ar Rabwah, Riyadh 12839",Mosque,24.6815023,46.7762772
+75,جامع الإمام المجدد الشيخ محمد بن عبدالوهاب رحمه الله,"'24.7369944', '46.6782625'","PMPH+QCV, شارع سعدون العواجي، حي, King Fahd, Riyadh 12272",Mosque,24.7369944,46.6782625
+76,جامع اللحيدان,"'24.754038', '46.7728788'","King Faisal Dt., حي, Riyadh",Mosque,24.754038,46.7728788
+77,Imam Sufyan Al-Thawri Mosque,"'24.7964495', '46.6712074'","3983 المجد, Ar Rabi, Riyadh 13316",Mosque,24.7964495,46.6712074
+78,Imam Sufyan Al-Thawri Mosque,"'24.7964547', '46.6712074'","3983 المجد, Ar Rabi, Riyadh 13316",Mosque,24.7964547,46.6712074
+79,Sheikh Ibn Jibreen Mosque,"'24.7944025', '46.6726122'","QMVF+Q56, Ar Rabi, Riyadh 13316",Mosque,24.7944025,46.6726122
+80,"جامع راشد بن عبدالله المبارك "" رحمه الله ""","'24.7994116', '46.6702808'","7474, Ar Rabi, Riyadh 13316",Mosque,24.7994116,46.6702808
+81,Sheikh Ali Bin Muhammad AlTurki Mosque,"'24.798717', '46.665509'","QMX8+F8M, Al Sahra Al Magharbiyah St, Ar Rabi, Riyadh 13316",Mosque,24.798717,46.665509
+82,جامع الشيخ عبد الله بن علي الفاضل,"'24.7890073', '46.7301033'","QPQJ+J52، شارع ساير بن فرحان النومسي، حي الشهداء, Ghirnatah, Riyadh 13241",Mosque,24.7890073,46.7301033
+83,Ad Dakheel Mosque,"'24.7950352', '46.7377035'","8090 Ushba، حي الشهداء، 3612, Riyadh 13241",Mosque,24.7950352,46.7377035
+84,Ghirnatah Mosque,"'24.7936549', '46.735628'","QPVP+F97، شارع محمد غازي المطيري، حي الشهداء, Ghirnatah, Riyadh 13241",Mosque,24.7936549,46.735628
+85,جامع الشيخ عبدالله بن زيد الغنيم,"'24.785127', '46.741023'","3911 Ali Al Marouzi، حي الشهداء، RFDA7007، 7007, Riyadh 13241",Mosque,24.785127,46.741023
+86,جامع الشيخ عبدالله بن زيد الغنيم,"'24.7851322', '46.741023'","3911 Ali Al Marouzi، حي الشهداء، RFDA7007، 7007, Riyadh 13241",Mosque,24.7851322,46.741023
+87,مسجد غرناطة الغربي,"'24.7836598', '46.7429488'","QPMV+F79, Ghirnatah, Riyadh 13241",Mosque,24.7836598,46.7429488
+88,Cedi Masjid,"'24.7833893', '46.7336354'","6811 حمود عايض فهد الحربي, 3175, Ghirnatah, 3175, Riyadh 13241",Mosque,24.7833893,46.7336354
+89,Ghirnatah Mosque,"'24.7936549', '46.735628'","QPVP+F97، شارع محمد غازي المطيري، حي الشهداء, Ghirnatah, Riyadh 13241",Mosque,24.7936549,46.735628
+90,Ad Dakheel Mosque,"'24.7950352', '46.7377035'","8090 Ushba، حي الشهداء، 3612, Riyadh 13241",Mosque,24.7950352,46.7377035
+91,Umm Mutlaq Mosque,"'24.7941078', '46.7330688'","QPVM+J8X، شارع عبد الرحمن بن عزاز، حي الشهداء, Ghirnatah, Riyadh 13241",Mosque,24.7941078,46.7330688
+92,جامع الشيخ عبدالله بن راشد بن كليب رحمه الله - اليرموك,"'24.8052206', '46.7745002'","3563 Abi Jafar Al Mansur, 7516, Al Yarmuk, Riyadh 13243",Mosque,24.8052206,46.7745002
+93,Ghirnatah Mosque,"'24.7936549', '46.735628'","QPVP+F97، شارع محمد غازي المطيري، حي الشهداء, Ghirnatah, Riyadh 13241",Mosque,24.7936549,46.735628
+94,Ad Dakheel Mosque,"'24.7950352', '46.7377035'","8090 Ushba، حي الشهداء، 3612, Riyadh 13241",Mosque,24.7950352,46.7377035
+95,Ghirnatah Mosque,"'24.7936549', '46.735628'","QPVP+F97، شارع محمد غازي المطيري، حي الشهداء, Ghirnatah, Riyadh 13241",Mosque,24.7936549,46.735628
+96,Umm Mutlaq Mosque,"'24.7941078', '46.7330688'","QPVM+J8X، شارع عبد الرحمن بن عزاز، حي الشهداء, Ghirnatah, Riyadh 13241",Mosque,24.7941078,46.7330688
+97,Sayd Al Shuhada Mosque,"'24.7912164', '46.7336975'","الظهرة, Ghirnatah, Riyadh 13241",Mosque,24.7912164,46.7336975
+98,مسجد عمر بن الخطاب بحي الجنادرية,"'24.8077792', '46.8640203'","8194 الشارخية، 3891, Al Janadriyyah, Riyadh 13611",Mosque,24.8077792,46.8640203
+99,جامع عثمان بن عفان بحي الجنادرية,"'24.8229163', '46.8798112'",7911 الشيخ خليفة بن حمد ال ثاني، الجنادرية، الرياض 13612 4392،,Mosque,24.8229163,46.8798112
+100,Abi Baker As Siddiq Mosque,"'24.811041', '46.8579662'","3264 الدور, Al Janadriyyah, Riyadh 13611",Mosque,24.811041,46.8579662
+101,Hamed Al Harbi Mosque of Allah's mercy,"'24.8022145', '46.8617656'","7581, 3674, Al Janadriyyah, Riyadh 13611",Mosque,24.8022145,46.8617656
+102,The Mosque of Omar Ibn al-Khattab (may Allah be pleased with him),"'24.7998183', '46.8732856'","QVXF+WCG, Al Nadwa, Riyadh 14813",Mosque,24.7998183,46.8732856
+103,Farouk Mosque,"'24.8184017', '46.8871301'","7989 Muhammad Al Shawi, Al Nadwa, Riyadh 14814",Mosque,24.8184017,46.8871301
+104,Mohammed Badawi Mosque,"'24.7943556', '46.8684195'","Al Nadwa, 2725, Riyadh 14813",Mosque,24.7943556,46.8684195
+105,mosque Nora Alhkir,"'24.8000062', '46.869919'","8036, Al Nadwa, Riyadh 14813",Mosque,24.8000062,46.869919
+106,mosque Nora Alhkir,"'24.8000162', '46.8699189'","8036, Al Nadwa, Riyadh 14813",Mosque,24.8000162,46.8699189
+107,Hamed Al Harbi Mosque of Allah's mercy,"'24.8022145', '46.8617656'","7581, 3674, Al Janadriyyah, Riyadh 13611",Mosque,24.8022145,46.8617656
+108,Umm Yousef Alotair Mosque,"'24.8006045', '46.8665144'","522, Al Janadiriyah, Riyadh 13611",Mosque,24.8006045,46.8665144
+109,Fahd Mosque Break,"'24.7930565', '46.8659941'","Al Nadwa, 7281, Riyadh 14813",Mosque,24.7930565,46.8659941
+110,Al Sagheer Mosque – Ishbilia District,"'24.7903252', '46.8005139'","QRR2+48M, Shatran, Ishbiliyah, Riyadh 13226",Mosque,24.7903252,46.8005139
+111,Mosque Uqba,"'24.7861813', '46.7925986'","2887, Ishbiliyah, 6528, Riyadh 13226",Mosque,24.7861813,46.7925986
+112,Muhammad Al Harbi Mosque,"'24.8000536', '46.7995032'","RQ2X+2WF, Ishbiliyah, Riyadh 13226",Mosque,24.8000536,46.7995032
+113,Sevilla Mosque,"'24.7903677', '46.8003631'","QRR2+47R, Ishbiliyah, Riyadh 13226",Mosque,24.7903677,46.8003631
+114,Al Quds Mosque,"'24.7555414', '46.7630016'","QQ47+687, Balnasiyah, Jerusalem, Riyadh 13214",Mosque,24.7555414,46.7630016
+115,Abdullah bin Omar Mosque,"'24.7573271', '46.7639705'","4593 Abi Al Thana Ibn Ghanaim, Jerusalem, Riyadh 13214",Mosque,24.7573271,46.7639705
+116,مسجد خالد بن الوليد رضي الله عنه بحي القدس,"'24.759233', '46.762152'",8141، 4389 ابن ابي العيون، القدس، الرياض 13214 8141,Mosque,24.759233,46.762152
+117,مسجد القدس,"'24.7549651', '46.7425343'","QP3V+X4P, Jerusalem, Riyadh 13214",Mosque,24.7549651,46.7425343
+118,مسجد القدس,"'24.7549703', '46.7425343'","QP3V+X4P, Jerusalem, Riyadh 13214",Mosque,24.7549703,46.7425343
+119,Othman bin Affan Mosque,"'24.7523911', '46.7438476'","QP2V+XM2, Eastern Ring Rd, Jerusalem, Riyadh 13214",Mosque,24.7523911,46.7438476
+120,6400,"'24.7559385', '46.7446224'","QP4V+9XC, Jerusalem, Riyadh 13214",Mosque,24.7559385,46.7446224
+121,Abu Yusuf Masjid,"'24.7636345', '46.7377905'","QP7Q+F64, Eastern Ring Branch Rd, Al Hamra, Riyadh 13216",Mosque,24.7636345,46.7377905
+122,Abu Yusuf Masjid,"'24.7636445', '46.7377904'","QP7Q+F64, Eastern Ring Branch Rd, Al Hamra, Riyadh 13216",Mosque,24.7636445,46.7377904
+123,Sheikh Fahd bin Suleiman Mosque Aqeeli,"'24.7621594', '46.7358426'","QP6P+VC9, Nasir Ar Rajihi, Al Mughrizat, Riyadh 12482",Mosque,24.7621594,46.7358426
+124,Alhudaithi Grand Mosque,"'24.7601363', '46.7375984'","6938 عبدالرحمن الدباغ، 4537, Al Mughrizat, Riyadh 12482",Mosque,24.7601363,46.7375984
+125,Al Juaid Mosque,"'24.7676132', '46.7378424'","2775 6873 المروج, Al Hamra, Riyadh 13216",Mosque,24.7676132,46.7378424
+126,Al Rawdah Neighborhood Mosque,"'24.7177591', '46.7623023'","PQ97+424, Khalil Al Jabrati, Ar Rawdah, Riyadh 13211",Mosque,24.7177591,46.7623023
+127,Khalid Bin Al Waleed Mosque,"'24.7427729', '46.7613109'","PQV6+4J4, Ar Rawdah, Riyadh 11461",Mosque,24.7427729,46.7613109
+128,جامع طيبة بحي الروضة,"'24.7300239', '46.7810789'","PQJJ+2G5، كعب بن الحارث، الروضة, Ar Rawdah, Riyadh 13211",Mosque,24.7300239,46.7810789
+129,Al Rawda Mosque,"'24.7201235', '46.7669921'","PQC8+2WR, Abi Al Fath Adh Dhahir, Ar Rawdah, Riyadh 13211",Mosque,24.7201235,46.7669921
+130,جامع حي الاندلس,"'24.7386288', '46.7894059'","6937 Sulaiman Al Warnidi, Al Andalus, Riyadh 13212",Mosque,24.7386288,46.7894059
+131,Al Andalus Mosque,"'24.7426227', '46.7731609'","4477 Rahmat Ibn Jabir, Ar Rawdah, 7735، Riyadh 13213",Mosque,24.7426227,46.7731609
+132,Alluhaidan Mosque,"'24.7433834', '46.7880326'","3386 Abi Muhammad An Nusaj, Al Andalus, 7465، الاندلس، الرياض 13212",Mosque,24.7433834,46.7880326
+133,Alturki Mosque,"'24.7364402', '46.7885677'","PQPQ+HGH, Saad Ibn Ar Rabi, Al Andalus, Riyadh 13212",Mosque,24.7364402,46.7885677
+134,Hamza bin Abdulmutalib Mosque,"'24.7525923', '46.7882887'","QQ3Q+2CP حي, Az Zaimi, An Nahdah, Riyadh 13212",Mosque,24.7525923,46.7882887
+135,مسجد النهضة,"'24.7451658', '46.7988504'","7663 Abd Al Rahman Al Naser, 4396, Al Andalus, Riyadh 13212",Mosque,24.7451658,46.7988504
+136,جامع الراجحي بحي النهضة,"'24.7495292', '46.811316'","4167 سلمان بن ابي القاسم، 7067, An Nahdah, Riyadh 13221",Mosque,24.7495292,46.811316
+137,Alturki Mosque,"'24.7364402', '46.7885677'","PQPQ+HGH, Saad Ibn Ar Rabi, Al Andalus, Riyadh 13212",Mosque,24.7364402,46.7885677
+138,Alturki Mosque,"'24.7364454', '46.7885677'","PQPQ+HGH, Saad Ibn Ar Rabi, Al Andalus, Riyadh 13212",Mosque,24.7364454,46.7885677
+139,Hamza bin Abdulmutalib Mosque,"'24.7525923', '46.7882887'","QQ3Q+2CP حي, Az Zaimi, An Nahdah, Riyadh 13212",Mosque,24.7525923,46.7882887
+140,مسجد ابي ذر الغفاري,"'24.7386436', '46.7894374'","As Sulayyil As Sulayyil, Al Andalus, Riyadh 13212",Mosque,24.7386436,46.7894374
+141,Al Taqwa Mosque,"'24.7338738', '46.7875888'","3373 Umm As Silm Al Andalus Riyadh 13212 6404 Umm Al Selm, 6404, Al Andalus, Riyadh 13212",Mosque,24.7338738,46.7875888
+142,The Mosque of Omar Ibn al-Khattab (may Allah be pleased with him),"'24.7998183', '46.8732856'","QVXF+WCG, Al Nadwa, Riyadh 14813",Mosque,24.7998183,46.8732856
+143,جامع المورقي,"'24.7927969', '46.8817738'","QVVJ+4R7, Al Nadwa, Riyadh 14813",Mosque,24.7927969,46.8817738
+144,Al Hudaithi Mosque,"'24.79398', '46.8746804'","QVVF+HXW, Al Nadwa, Riyadh 14813",Mosque,24.79398,46.8746804
+145,مسجد النور Alnour Mosque,"'24.7838753', '46.8763755'","3526, Al Nadwa, Riyadh 14813",Mosque,24.7838753,46.8763755
+146,مسجد النور Alnour Mosque,"'24.7838853', '46.8763754'","3526, Al Nadwa, Riyadh 14813",Mosque,24.7838853,46.8763754
+147,جامع النهدي,"'24.7864691', '46.8753362'","QVPG+H6Q، شارع رقم 38, Al Nadwa, Riyadh 14813",Mosque,24.7864691,46.8753362
+148,ABU DAWOID MOSQUE,"'24.7881383', '46.874007'","شارع رقم 38, Al Nadwa, Riyadh 14813",Mosque,24.7881383,46.874007
+149,Al-Rubo Mosque,"'24.6970186', '46.7521864'","مبنى جامع الربع، 6983 Zat Al Harmal, Ar Rabwah, Riyadh 12821",Mosque,24.6970186,46.7521864
+150,Al-Rubo Mosque,"'24.6970286', '46.7521863'","مبنى جامع الربع، 6983 Zat Al Harmal, Ar Rabwah, Riyadh 12821",Mosque,24.6970286,46.7521863
+151,جامع المهنا -حي المنار,"'24.7257207', '46.7888497'","2637 Al Cheikh Abd Allah Ibn Hamid, Al Manar, Riyadh 14221",Mosque,24.7257207,46.7888497
+152,Ad Dawah Mosque,"'24.7185827', '46.7954842'","PQ9W+C8J, Ad Duhak Ibn Amr, Al Manar, Riyadh 14222",Mosque,24.7185827,46.7954842
+153,مسجد الصحابي الجليل سعيد بن عامر الجمحي,"'24.6945643', '46.7540778'","MQV3+RPH, شارع احمد الحبساني, Ar Rabwah, Riyadh 12823",Mosque,24.6945643,46.7540778
+154,Al-Rubo Mosque,"'24.6970186', '46.7521864'","مبنى جامع الربع، 6983 Zat Al Harmal, Ar Rabwah, Riyadh 12821",Mosque,24.6970186,46.7521864
+155,مسجد الصحابي الجليل سعيد بن عامر الجمحي,"'24.6945643', '46.7540778'","MQV3+RPH, شارع احمد الحبساني, Ar Rabwah, Riyadh 12823",Mosque,24.6945643,46.7540778
+156,Jawaad Mosque,"'24.7216667', '46.812308'","PRC7+M28, Abdul Rahman Ibn Awf Rd, An Nasim Al Gharbi, Riyadh 14225",Mosque,24.7216667,46.812308
+157,King Khaled Mosque,"'24.7302042', '46.8326555'","PRJM+35M, Rashed Ibn Shehab, An Nasim Al Gharbi, Riyadh 14234",Mosque,24.7302042,46.8326555
+158,King Khaled Mosque,"'24.7302142', '46.8326554'","PRJM+35M, Rashed Ibn Shehab, An Nasim Al Gharbi, Riyadh 14234",Mosque,24.7302142,46.8326554
+159,Al Noor Mosque,"'24.7321879', '46.838827'","2874 Esmail Bin Kathir, An Nasim Ash Sharqi, Riyadh 14243",Mosque,24.7321879,46.838827
+160,Tawhid mosque,"'24.7353262', '46.8332947'","جامع التوحيد, Mahmud Ibn Abi Hamid, An Nasim Ash Sharqi, Riyadh 14243",Mosque,24.7353262,46.8332947
+161,جامع عثمان بن عفان. بالنسيم الشرقي,"'24.7273606', '46.838615'","2866 المتوكل العجلي، النسيم الشرقي الرياض 14243 7541 Al Mutawakkil Al Ajli, An Nasim Ash Sharqi, Riyadh 14243",Mosque,24.7273606,46.838615
+162,جامع عثمان بن عفان. بالنسيم الشرقي,"'24.7273658', '46.838615'","2866 المتوكل العجلي، النسيم الشرقي الرياض 14243 7541 Al Mutawakkil Al Ajli, An Nasim Ash Sharqi, Riyadh 14243",Mosque,24.7273658,46.838615
+163,جامع الحارث بن كلدة,"'24.7525446', '46.8579357'","QV35+278, Ar Rimayah, Riyadh 14611",Mosque,24.7525446,46.8579357
+164,جامع حمود الذياب,"'24.7254424', '46.8368947'","4217 Al Oumraniah, An Nasim Al Gharbi, Riyadh 14234",Mosque,24.7254424,46.8368947
+165,جامع الشلوي,"'24.7256244', '46.8301148'","3543 عمير بن سعد, An Nasim Al Gharbi, Riyadh 14234",Mosque,24.7256244,46.8301148
+166,جامع الشلوي,"'24.7256344', '46.8301147'","3543 عمير بن سعد, An Nasim Al Gharbi, Riyadh 14234",Mosque,24.7256344,46.8301147
+167,Farouk Mosque,"'24.722766', '46.8327417'","PRFM+462, Abhor, An Nasim Al Gharbi, Riyadh 14234",Mosque,24.722766,46.8327417
+168,Abu Bakar Al-Siddiq Mosque,"'24.6951446', '46.789484'","مسجد أبو بكر الصديق حي الروابي, Zamil Ibn Salim, Ar Rawabi, Riyadh 14214",Mosque,24.6951446,46.789484
+169,جامع المبيريك,"'24.7010354', '46.7865017'","PQ2P+CP7, Ar Rawabi, Riyadh 14214",Mosque,24.7010354,46.7865017
+170,جامع المبيريك,"'24.7010454', '46.7865016'","PQ2P+CP7, Ar Rawabi, Riyadh 14214",Mosque,24.7010454,46.7865016
+171,Al Ghizzi Grand Mosque,"'24.7056966', '46.8028472'","As Salam, Riyadh 14224",Mosque,24.7056966,46.8028472
+172,Al-Ihsan Mosque,"'24.7092203', '46.8004489'","PR52+M7Q, As Salam, Riyadh 14224",Mosque,24.7092203,46.8004489
+173,Alezz Bin Abdulsalam grand Mosque,"'24.7017011', '46.8142571'","PR27+MRM, As Salam, Riyadh 14226",Mosque,24.7017011,46.8142571
+174,دار الذكر مقابل جامع التوحيد في الشارع الخامس بحي الجزيرة بالرياض,"'24.6700703', '46.7932089'","MQCV+29H، شارع الخامس, Al Jazirah, Riyadh 14252",Mosque,24.6700703,46.7932089
+175,مسجد ابن جبرين بالجزيرة,"'24.676224', '46.789761'","3277, Al Jazirah، 7029, Riyadh 14251",Mosque,24.676224,46.789761
+176,Abdul Rahman Masjid,"'24.6764507', '46.7981999'","Al Jazirah، مسجد عبدالرحمن بن مهدي - حي الجزيرة تقاطع شارع 14 مع 7, Riyadh 14251",Mosque,24.6764507,46.7981999
+177,Al-Tawheed Mosque,"'24.6701416', '46.7934342'","MQCV+3F4, 4th, Al Jazirah, Riyadh 14251",Mosque,24.6701416,46.7934342
+178,جامع عكاشة بن محصن,"'24.670601', '46.8049942'","MRC4+64R, Harun Ar Rashid Service Rd, Al Fayha, Riyadh 14254",Mosque,24.670601,46.8049942
+179,Shuaibi Mosque,"'24.6718937', '46.8088842'","جامع الشعيبي, Abi Amamah, Al Fayha, Riyadh 14254",Mosque,24.6718937,46.8088842
+180,جامع الفيحاء,"'24.6871667', '46.8091357'","RQFA8131, 8131 قرن البير, 3336, Al Fayha, Riyadh 14253",Mosque,24.6871667,46.8091357
+181,Zaid ibn Thabit Mosque,"'24.6849422', '46.8014915'","MRM2+XPC, Al Fayha, Riyadh 14253",Mosque,24.6849422,46.8014915
+182,Taqwa Mosque,"'24.6852781', '46.8280274'","MRPH+487, Al Sofwan, As Saadah, Riyadh 14256",Mosque,24.6852781,46.8280274
+183,Zaid ibn Thabit Mosque,"'24.6849422', '46.8014915'","MRM2+XPC, Al Fayha, Riyadh 14253",Mosque,24.6849422,46.8014915
+184,جامع السعادة,"'24.6904184', '46.8528073'","MVR3+568, Abu Oubaidah Ibn Al Jarrah, As Saadah, Riyadh 14258",Mosque,24.6904184,46.8528073
+185,Suleiman Mosque Alabadana,"'24.6976918', '46.8333968'","شارع صالح بن علي سروجي, As Saadah, Riyadh 14255",Mosque,24.6976918,46.8333968
+186,Suleiman Mosque Alabadana,"'24.697697', '46.8333968'","شارع صالح بن علي سروجي, As Saadah, Riyadh 14255",Mosque,24.697697,46.8333968
+187,جامع عمر بن الخطاب,"'24.6724906', '46.863628'","MVC7+XHV, Second Ring Rd, Khashm Al Aan, Riyadh 14285",Mosque,24.6724906,46.863628
+188,Hussaini Mosque,"'24.6985413', '46.830897'","8309 المركبة، 3420, As Saadah, Riyadh 14255",Mosque,24.6985413,46.830897
+189,Mosque of Omar bin Al-Hassan Al-Sheikh,"'24.6886625', '46.82525'","MRQG+F67, Al Jamil, As Saadah, Riyadh 14255",Mosque,24.6886625,46.82525
+190,Mosque of Omar bin Al-Hassan Al-Sheikh,"'24.6886677', '46.82525'","MRQG+F67, Al Jamil, As Saadah, Riyadh 14255",Mosque,24.6886677,46.82525
+191,Taqwa Mosque,"'24.6852781', '46.8280274'","MRPH+487, Al Sofwan, As Saadah, Riyadh 14256",Mosque,24.6852781,46.8280274
+192,Suleiman Mosque Alabadana,"'24.6976918', '46.8333968'","شارع صالح بن علي سروجي, As Saadah, Riyadh 14255",Mosque,24.6976918,46.8333968
+193,Ata Allah Mosque,"'24.6907674', '46.8241901'","MRRF+8Q5, Al Ghuyum, As Saadah, Riyadh 14255",Mosque,24.6907674,46.8241901
+194,Mosque of Omar bin Al-Hassan Al-Sheikh,"'24.6886625', '46.82525'","MRQG+F67, Al Jamil, As Saadah, Riyadh 14255",Mosque,24.6886625,46.82525
+195,Ata Allah Mosque,"'24.6907674', '46.8241901'","MRRF+8Q5, Al Ghuyum, As Saadah, Riyadh 14255",Mosque,24.6907674,46.8241901
+196,جامع حنين,"'24.6864931', '46.8200519'","MRPC+H4W, Al Asamir, Al Fayha, Riyadh 14253",Mosque,24.6864931,46.8200519
+197,Centenary Mosque,"'24.6852377', '46.8219318'","4644 Al Bayan, Al Fayha, Riyadh 14253",Mosque,24.6852377,46.8219318
+198,Abu Bakr Alsiddiq Mosque,"'24.5746947', '46.8941576'","7352, 2963, Al Birriyyah, Riyadh 14342",Mosque,24.5746947,46.8941576
+199,"Ali bin Abi Talib Mosque, may God be pleased on him","'24.5797414', '46.9071221'","HWH4+VXR, Al Birriyyah, Riyadh 14342",Mosque,24.5797414,46.9071221
+200,"Omar bin Al-Khattab Mosque, may God be pleased on him","'24.5826891', '46.905452'","HWM4+37H, Al Birriyyah, Riyadh 14342",Mosque,24.5826891,46.905452
+201,مسجد عثمان بن عفان,"'24.5711144', '46.8979218'","7011, Al Birriyyah، 3416, Riyadh 14342",Mosque,24.5711144,46.8979218
+202,مسجد عثمان بن عفان,"'24.5711244', '46.8979217'","7011, Al Birriyyah، 3416, Riyadh 14342",Mosque,24.5711244,46.8979217
+203,Abu Bakr Alsiddiq Mosque,"'24.5746947', '46.8941576'","7352, 2963, Al Birriyyah, Riyadh 14342",Mosque,24.5746947,46.8941576
+204,"Ali bin Abi Talib Mosque, may God be pleased on him","'24.5797414', '46.9071221'","HWH4+VXR, Al Birriyyah, Riyadh 14342",Mosque,24.5797414,46.9071221
+205,مسجد,"'24.5662116', '46.8969364'","3326 6468, Riyadh 14342",Mosque,24.5662116,46.8969364
+206,مسجد الهداية حي عرقة طريق الامير مشعل,"'24.681851', '46.5658318'","2416، 7574, Irqah، 2416 عرقة، الرياض 12545, Riyadh 12545",Mosque,24.681851,46.5658318
+207,مسجد,"'24.5662116', '46.8969364'","3326 6468, Riyadh 14342",Mosque,24.5662116,46.8969364
+208,مسجد عثمان بن عفان,"'24.5711144', '46.8979218'","7011, Al Birriyyah، 3416, Riyadh 14342",Mosque,24.5711144,46.8979218
+209,Masjid for Eid (Open Air Area),"'24.6810643', '46.5933368'","MHJV+CCH، بلقيس, Irqah, Riyadh 12533",Mosque,24.6810643,46.5933368
+210,Masjid for Eid (Open Air Area),"'24.6810743', '46.5933367'","MHJV+CCH، بلقيس, Irqah, Riyadh 12533",Mosque,24.6810743,46.5933367
+211,Omar Bin Abdulaziz Grand Mosque,"'24.6555126', '46.5817587'","MH4J+6R3, Dhahrat Laban, Riyadh 12553",Mosque,24.6555126,46.5817587
+212,Al Yosra Mosque,"'24.6516036', '46.5779292'","MH2H+J7W، القريتين, Dhahrat Laban, Riyadh 12564",Mosque,24.6516036,46.5779292
+213,جامع نايف بضاحية لبن الشرقي,"'24.6445787', '46.578942'","الغمد، 3371 جامع نايف ، ظهرة لبن، 12563 8148، شارع, Riyadh 12563",Mosque,24.6445787,46.578942
+214,مسجد جعفر الطيار حي طويق,"'24.5779038', '46.5648839'","HHH8+537, Tuwaiq, Riyadh 14922",Mosque,24.5779038,46.5648839
+215,جامع الشيخ الميع بن حسن آل سعد,"'24.5610753', '46.5669911'",RKWC6956، 6956 عمر بن الحارث، 3331، حي طويق، الرياض 14927،,Mosque,24.5610753,46.5669911
+216,جامع عمر بن الخطاب رضي الله عنه,"'24.5561808', '46.5689769'","HH49+FPC, Tuwaiq, Riyadh 14927",Mosque,24.5561808,46.5689769
+217,مسجد حي طويق,"'24.5834174', '46.5686886'",الليث، طويق، الرياض 14922، 14922,Mosque,24.5834174,46.5686886
+218,مسجد حي طويق,"'24.5834174', '46.5686886'",الليث، طويق، الرياض 14922، 14922,Mosque,24.5834174,46.5686886
+219,Al Askar Mosque,"'24.5872846', '46.568811'","HHP9+WJ9, Al Fayruz, Tuwaiq, Riyadh 14914",Mosque,24.5872846,46.568811
+220,مسجد عمر بن الخطاب (طويق),"'24.5808914', '46.5682219'","HHJ9+9C2, Ath Thanah, Tuwaiq, Riyadh 14922",Mosque,24.5808914,46.5682219
+221,جامع الأبوين.,"'24.5885193', '46.5615021'","6489 Al Bastah, Tuwaiq, Riyadh 14914",Mosque,24.5885193,46.5615021
+222,جامع الأبوين.,"'24.5885193', '46.5615021'","6489 Al Bastah, Tuwaiq, Riyadh 14914",Mosque,24.5885193,46.5615021
+223,جامع الامير مشاري بن سعود,"'24.5928771', '46.5590514'","3899 6821, Riyadh 14912",Mosque,24.5928771,46.5590514
+224,جامع الملك سعود,"'24.5831034', '46.5642195'",2874، 7270 الكندي، طويق، الرياض 14922 2874، 14922,Mosque,24.5831034,46.5642195
+225,مسجد أبي الدرداء رضي الله عنه.,"'24.5880616', '46.5589183'",6289 الجبور، الرياض 14912،,Mosque,24.5880616,46.5589183
+226,جامع نمار,"'24.5558134', '46.5512194'","HH42+8JC, Najm Al Din Al Ayoubi, Tuwaiq, Riyadh 14928",Mosque,24.5558134,46.5512194
+227,جامع ابن الهدي,"'24.5896312', '46.5551049'","6466 An Jamuh, 3498, Tuwaiq، 6466 الجموح، طويق، الرياض 14912 3498, Riyadh 14912",Mosque,24.5896312,46.5551049
+228,مسجد نمار,"'24.5651031', '46.5333787'","HG8M+2FV، حي الموسى، طويق،, Riyadh",Mosque,24.5651031,46.5333787
+229,مسجد أبي الدرداء رضي الله عنه.,"'24.5880616', '46.5589183'",6289 الجبور، الرياض 14912،,Mosque,24.5880616,46.5589183
+230,جامع ابن الهدي,"'24.5896312', '46.5551049'","6466 An Jamuh, 3498, Tuwaiq، 6466 الجموح، طويق، الرياض 14912 3498, Riyadh 14912",Mosque,24.5896312,46.5551049
+231,جامع الأبوين.,"'24.5885193', '46.5615021'","6489 Al Bastah, Tuwaiq, Riyadh 14914",Mosque,24.5885193,46.5615021
+232,جامع الامير مشاري بن سعود,"'24.5928771', '46.5590514'","3899 6821, Riyadh 14912",Mosque,24.5928771,46.5590514
+233,جامع الملك سعود,"'24.5831034', '46.5642195'",2874، 7270 الكندي، طويق، الرياض 14922 2874، 14922,Mosque,24.5831034,46.5642195
+234,مسجد حي طويق,"'24.5834174', '46.5686886'",الليث، طويق، الرياض 14922، 14922,Mosque,24.5834174,46.5686886
+235,Alblish Mosque,"'24.5919628', '46.5954888'","HHRW+Q8M, Aluraija Al Gharbiyah, Riyadh 12966",Mosque,24.5919628,46.5954888
+236,Abdulaziz Al Jasser Grand Mosque,"'24.580437', '46.5903536'","HHJR+57C, Al Sourah, Aluraija Al Gharbiyah, Riyadh 14921",Mosque,24.580437,46.5903536
+237,مسجد النخيل - العريجاء الغربي,"'24.59914', '46.6001596'","3765 Abdallah Ibn Al Zoubeir، حي العريجاء الغربي، RIUB6887، 6887, Riyadh 12966",Mosque,24.59914,46.6001596
+238,Al Sanea Mosque,"'24.5859293', '46.6662791'","2857 السويدي العام، السويدي، الرياض 12794 7805 Al Souweidi Al Aam, 7805, As Suwaidi, Riyadh 12794",Mosque,24.5859293,46.6662791
+239,Ibn Taymiyyah Mosque,"'24.577962', '46.609141'","7913 Umar Mufti, 2404, As Suwaidi Al Gharabi, Riyadh 12992",Mosque,24.577962,46.609141
+240,مسجد آل عوشن,"'24.5795151', '46.6109418'","2629 Ahmad Bin As Sairafi, 8091, As Suwaidi Al Gharabi, 8091، Riyadh 12992",Mosque,24.5795151,46.6109418
+241,Sheikh Muhammed Salih Al-Ansari Mosque of Allah's mercy,"'24.5967003', '46.5986459'","3622 Dabil, 3622, Aluraija Al Gharbiyah، 6620 دبيل،, Riyadh 12966",Mosque,24.5967003,46.5986459
+242,Sheikh Muhammed Salih Al-Ansari Mosque of Allah's mercy,"'24.5967003', '46.5986459'","3622 Dabil, 3622, Aluraija Al Gharbiyah، 6620 دبيل،, Riyadh 12966",Mosque,24.5967003,46.5986459
+243,Alblish Mosque,"'24.5919628', '46.5954888'","HHRW+Q8M, Aluraija Al Gharbiyah, Riyadh 12966",Mosque,24.5919628,46.5954888
+244,مسجد النور العريجاء,"'24.5981936', '46.5962935'","6772 Ash Shuwairif, Aluraija Al Gharbiyah, Riyadh 12966",Mosque,24.5981936,46.5962935
+245,جامع موسى بن نصير,"'24.6009383', '46.597049'","JH2W+9WH, Muhammad Ibn Sulaiman, Aluraija Al Gharbiyah, Riyadh 12966",Mosque,24.6009383,46.597049
+246,جامع موسى بن نصير,"'24.6009383', '46.597049'","JH2W+9WH, Muhammad Ibn Sulaiman, Aluraija Al Gharbiyah, Riyadh 12966",Mosque,24.6009383,46.597049
+247,Al-Walid I Mosque,"'24.6036623', '46.5977302'","JH3X+F66, Khadijah Bint Abi Al Hasan, Aluraija Al Gharbiyah, Riyadh 12964",Mosque,24.6036623,46.5977302
+248,Sheikh Muhammed Salih Al-Ansari Mosque of Allah's mercy,"'24.5967003', '46.5986459'","3622 Dabil, 3622, Aluraija Al Gharbiyah، 6620 دبيل،, Riyadh 12966",Mosque,24.5967003,46.5986459
+249,masjid hudhayfat bin alyaman radi allah eanhu.,"'24.6000567', '46.5935064'","JH2V+2GF, Aluraija Al Gharbiyah, Riyadh 12966",Mosque,24.6000567,46.5935064
+250,جامع الصانع حي شبرا,"'24.5731104', '46.6651045'","HMF8+65R, Abi Mishab, Shubra, Riyadh 12799",Mosque,24.5731104,46.6651045
+251,جامع الشيخ عبد الله بن عبد العزيز الراجحي رحمه الله بشبرا,"'24.5802881', '46.6755398'","3850 Masafi, Shubra, Riyadh 12798",Mosque,24.5802881,46.6755398
+252,The Southern Shubrah's Mosque,"'24.5828171', '46.6839338'","HMMM+4MH, Towaiq Mountain, Shubra, Riyadh 12797",Mosque,24.5828171,46.6839338
+253,جامع الإيمان,"'24.5719066', '46.6602029'","HMC6+Q66, Daws, Shubra, Riyadh 12988",Mosque,24.5719066,46.6602029
+254,جامع الإيمان,"'24.5719066', '46.6602029'","HMC6+Q66, Daws, Shubra, Riyadh 12988",Mosque,24.5719066,46.6602029
+255,Andalus Mosque,"'24.5691461', '46.6575656'","HM95+M45, As Sulailan, Shubra, Riyadh 12988",Mosque,24.5691461,46.6575656
+256,Prince Hasan Bin Abdullah Mosque,"'24.5721479', '46.6562039'","HMC4+VJ2, Shubra, Riyadh 12988",Mosque,24.5721479,46.6562039
+257,Mosque of Ibn Said,"'24.5693141', '46.6521658'","Ibrahim Al Ajluni, Shubra, Riyadh 12989",Mosque,24.5693141,46.6521658
+258,جامع الفاخرية,"'24.6448779', '46.6838034'","JMVM+XJ5, Al Fakhiriyyah, Riyadh 12736",Mosque,24.6448779,46.6838034
+259,مسجد الأمير بندر عبدالله آل فرحان آل سعود ، عليشة ، حي الفاخرية,"'24.6386164', '46.6744096'","6492 عبدالجبار بن حسن، الفاخرية، الرياض 12737 2519،, Riyadh 11461",Mosque,24.6386164,46.6744096
+260,Mosque,"'24.6439573', '46.6899392'","4034 Al Muhajir Ibn Abdullah, Al Fakhiriyyah, Riyadh 12736",Mosque,24.6439573,46.6899392
+261,مسجد الشيخ محمد بن مرشد الزير رحمه الله,"'24.5650997', '46.6458522'","HJ8W+2FJ, Ali Al Hashimi, Shubra, Riyadh 12989",Mosque,24.5650997,46.6458522
+262,مسجد الشيخ محمد بن مرشد الزير رحمه الله,"'24.5650997', '46.6458522'","HJ8W+2FJ, Ali Al Hashimi, Shubra, Riyadh 12989",Mosque,24.5650997,46.6458522
+263,مسجد,"'24.556319', '46.6580313'","6868 Abi Sufyan Ibn Al Harith، حي نمار، 2278, Riyadh 14963",Mosque,24.556319,46.6580313
+264,Imam Abdullah bin Saud Mosque,"'24.5698464', '46.6449602'","HJ9W+W4J, Urwah Ibn Udhainah, Az Zahrah, Riyadh 12987",Mosque,24.5698464,46.6449602
+265,Al Salem Mosque,"'24.5690789', '46.6661778'","HM98+JHQ, Aishah Bint Abi Bakr, Namar, Riyadh 14963",Mosque,24.5690789,46.6661778
+266,مسجد حمد الموسى بالعريجاء الأوسط,"'24.6185887', '46.6542122'","4646 Yazid Ibn Abi Sufyan, Al Uraija Al Wusta, Riyadh 12767",Mosque,24.6185887,46.6542122
+267,مسجد عائشة بنت أبي بكر العريجا الأوسط,"'24.6166968', '46.6348617'","2731 Abi Saleh Al Jaili, 7816, Al Uraija Al Wusta, Riyadh 12765",Mosque,24.6166968,46.6348617
+268,مسجد العريجاء القديمة,"'24.6263229', '46.6585645'","JMG5+GGH, Al Uraija, Riyadh 12756",Mosque,24.6263229,46.6585645
+269,جامع الفصام,"'24.5837655', '46.6067521'","3222, Aluraija Al Gharbiyah، 6770, Riyadh 12978",Mosque,24.5837655,46.6067521
+270,جامع الفصام,"'24.5837655', '46.6067521'","3222, Aluraija Al Gharbiyah، 6770, Riyadh 12978",Mosque,24.5837655,46.6067521
+271,Um Hzlol Mosque,"'24.5831817', '46.6107962'","HJM6+7CH, Muhammad Al Utabi, Aluraija Al Gharbiyah, Riyadh 12978",Mosque,24.5831817,46.6107962
+272,Prince Khalid Ibn Saud Mosque,"'24.5879846', '46.6273266'","Prince Khalid Ibn Saud Mosque, Ibn Sharaf An Nawawi, Dhahrat Al Badi'ah, Riyadh 12982",Mosque,24.5879846,46.6273266
+273,جامع أبي عبيدة عامر بن الجراح -رضي الله عنه-,"'24.5818414', '46.6028569'","HJJ3+P7J, Muhammad Al Yazidi, Aluraija Al Gharbiyah, Riyadh 12978",Mosque,24.5818414,46.6028569
+274,Prince Mohammed Bin Abdulaziz Mosque,"'24.6928244', '46.6663852'","MMV8+4MF, Ashiqar, Al Mathar Ash Shamali, Riyadh 12332",Mosque,24.6928244,46.6663852
+275,جامع أبي عبيدة عامر بن الجراح -رضي الله عنه-,"'24.5818414', '46.6028569'","HJJ3+P7J, Muhammad Al Yazidi, Aluraija Al Gharbiyah, Riyadh 12978",Mosque,24.5818414,46.6028569
+276,Ibn Taymiyyah Mosque,"'24.577962', '46.609141'","7913 Umar Mufti, 2404, As Suwaidi Al Gharabi, Riyadh 12992",Mosque,24.577962,46.609141
+277,مسجد الشيخ عبدالله الرشيد رحمه الله,"'24.6723289', '46.6678667'","4529 Ar Radadi, Al Maather, Riyadh 12721",Mosque,24.6723289,46.6678667
+278,Sheikh Mohammed Bin Abdulaziz Alrajhi Mosque,"'24.6384707', '46.6647868'","JMQ8+92P, Ibn Al Zorieqan, Ar Rafiah, Riyadh 12753",Mosque,24.6384707,46.6647868
+279,مسجد الشيخ عبدالله الرشيد رحمه الله,"'24.6723289', '46.6678667'","4529 Ar Radadi, Al Maather, Riyadh 12721",Mosque,24.6723289,46.6678667
+280,Mujahid bin Jabr al-Makki Mosque,"'24.6459494', '46.6605476'","JMW6+98H, Ar Rafiah, Riyadh 12751",Mosque,24.6459494,46.6605476
+281,مسجد الرفيعة,"'24.6484983', '46.668348'","الرفيعة،، 8583، 4505-4593 محمد الجياني،, Riyadh 12751",Mosque,24.6484983,46.668348
+282,مسجد الرفيعة,"'24.6484982', '46.668348'","الرفيعة،، 8583، 4505-4593 محمد الجياني،, Riyadh 12751",Mosque,24.6484982,46.668348
+283,مسجد بن غصون,"'24.6472179', '46.6687416'","4526 Abdul Rahman Ibn Salim, Ar Rafiah، 8427, Riyadh 12751",Mosque,24.6472179,46.6687416
+284,Mujahid bin Jabr al-Makki Mosque,"'24.6459494', '46.6605476'","JMW6+98H, Ar Rafiah, Riyadh 12751",Mosque,24.6459494,46.6605476
+285,مسجد العوالي,"'24.5526635', '46.589986'","Alawali، 6125 زينب بنت الحافظ الطبريه، 3671, Riyadh 14926",Mosque,24.5526635,46.589986
+286,مسجد حي الحزم,"'24.5323122', '46.6508735'","GMJ2+WFF, 65, Alhazm, Riyadh 12684",Mosque,24.5323122,46.6508735
+287,مسجد العوالي,"'24.5526635', '46.589986'","Alawali، 6125 زينب بنت الحافظ الطبريه، 3671, Riyadh 14926",Mosque,24.5526635,46.589986
+288,جامع الحزم,"'24.5451567', '46.6612557'","GMW6+3J7, Al Mashahir, Alhazm, Riyadh 14964",Mosque,24.5451567,46.6612557
+289,Hia bint Saif Alqdaa mosque,"'24.5529468', '46.5984041'","HH3X+5FG، طريق نجم الدين الأيوبي الفرعي, Alawali, Riyadh 14925",Mosque,24.5529468,46.5984041
+290,Hia bint Saif Alqdaa mosque,"'24.5529468', '46.5984041'","HH3X+5FG، طريق نجم الدين الأيوبي الفرعي, Alawali, Riyadh 14925",Mosque,24.5529468,46.5984041
+291,Abdullah Aljadeed (may Allah have mercy on him),"'24.5537159', '46.5943623'","4008, Alawali, 6071, Riyadh 14926",Mosque,24.5537159,46.5943623
+292,مسجد الفرقان,"'24.555102', '46.5990345'","HH4X+2PW, Alsedq, Alawali, Riyadh 14925",Mosque,24.555102,46.5990345
+293,Zahra mosque,"'24.5861031', '46.6571881'","6525 Ibn Al Manfalouti, As Suwaidi, Riyadh 12788",Mosque,24.5861031,46.6571881
+294,Zahra mosque,"'24.5861031', '46.6571881'","6525 Ibn Al Manfalouti, As Suwaidi, Riyadh 12788",Mosque,24.5861031,46.6571881
+295,Al Sanea Mosque,"'24.5859293', '46.6662791'","2857 السويدي العام، السويدي، الرياض 12794 7805 Al Souweidi Al Aam, 7805, As Suwaidi, Riyadh 12794",Mosque,24.5859293,46.6662791
+296,جامع عثمان الحصيني,"'24.583672', '46.6592236'","6253 Al Fustat, 3674, As Suwaidi, Riyadh 12788",Mosque,24.583672,46.6592236
+297,جامع السويدي,"'24.5901811', '46.6594372'","6981 السر، السويدي الرياض 12788 3630 Al Serr, 3630, As Suwaidi, Riyadh 12788",Mosque,24.5901811,46.6594372
+298,جامع السويدي,"'24.5901811', '46.6594372'","6981 السر، السويدي الرياض 12788 3630 Al Serr, 3630, As Suwaidi, Riyadh 12788",Mosque,24.5901811,46.6594372
+299,Eid Musalla,"'24.5891982', '46.6522854'","HMQ3+M2G, Aishah Bint Abi Bakr, As Suwaidi, Riyadh 12788",Mosque,24.5891982,46.6522854
+300,Zahra mosque,"'24.5861031', '46.6571881'","6525 Ibn Al Manfalouti, As Suwaidi, Riyadh 12788",Mosque,24.5861031,46.6571881
+301,Hamidi Mosque,"'24.5928085', '46.6520383'","HMV2+4WG, Ibn Al Kaki, Dhahrat Al Badi'ah, Riyadh 12784",Mosque,24.5928085,46.6520383
+302,مسجد حمد الموسى بالعريجاء الأوسط,"'24.6185887', '46.6542122'","4646 Yazid Ibn Abi Sufyan, Al Uraija Al Wusta, Riyadh 12767",Mosque,24.6185887,46.6542122
+303,مسجد عائشة بنت أبي بكر العريجا الأوسط,"'24.6166968', '46.6348617'","2731 Abi Saleh Al Jaili, 7816, Al Uraija Al Wusta, Riyadh 12765",Mosque,24.6166968,46.6348617
+304,مسجد العريجاء القديمة,"'24.6263229', '46.6585645'","JMG5+GGH, Al Uraija, Riyadh 12756",Mosque,24.6263229,46.6585645
+305,جامع المزروع,"'24.5958209', '46.615973'","8108 Salman Al Hanbali, Aluraija Al Gharbiyah, Riyadh 12975",Mosque,24.5958209,46.615973
+306,Al-aqeel Mosque,"'24.6235946', '46.737016'","شارع Abdul Latif Al Mashuk, Ghubairah, Riyadh 12664",Mosque,24.6235946,46.737016
+307,مسجد جامع وسط غبيراء,"'24.6176865', '46.7320714'","JP9J+3WH, Yaqoub Al Safar, Ghubairah, Riyadh 12665",Mosque,24.6176865,46.7320714
+308,مسجد ابن عساكر,"'24.6216638', '46.7398424'","Ghubairah، حي 7192 إبن المهاجر، 4321, Riyadh 12664",Mosque,24.6216638,46.7398424
+309,مسجد حي الشماسية,"'24.6254291', '46.7392476'","JPGQ+5RF، أصات, Ghubairah, Riyadh 12664",Mosque,24.6254291,46.7392476
+310,Imam Sheikh Ali al-Sadoun name,"'24.6449341', '46.727943'","3326 السند، Al Amal, 7653, Riyadh 12644",Mosque,24.6449341,46.727943
+311,جامع الملك عبدالله بحي العمل,"'24.6470212', '46.7248497'","3011-3045 Asad Ibn Fourat, Al Amal, Riyadh 12644",Mosque,24.6470212,46.7248497
+312,Al-aqeel Mosque,"'24.6235946', '46.737016'","شارع Abdul Latif Al Mashuk, Ghubairah, Riyadh 12664",Mosque,24.6235946,46.737016
+313,مسجد حي الشماسية,"'24.6254291', '46.7392476'","JPGQ+5RF، أصات, Ghubairah, Riyadh 12664",Mosque,24.6254291,46.7392476
+314,مسجد حي الشماسية,"'24.6254291', '46.7392476'","JPGQ+5RF، أصات, Ghubairah, Riyadh 12664",Mosque,24.6254291,46.7392476
+315,Al-aqeel Mosque,"'24.6235946', '46.737016'","شارع Abdul Latif Al Mashuk, Ghubairah, Riyadh 12664",Mosque,24.6235946,46.737016
+316,مسجد الصناعية,"'24.6407368', '46.7380449'","JPRQ+78W حي, Al Qutadiyah, Al Sina'iyah, Riyadh 12843",Mosque,24.6407368,46.7380449
+317,مسجد أنس بن مالك,"'24.6358248', '46.7427388'","JPPV+86F، شارع السنبل، حي الصناعية, Al Sina'iyah, Riyadh 12871",Mosque,24.6358248,46.7427388
+318,جامع ابن منيع رحمه الله,"'24.6147472', '46.723832'","Al Aghar, 3868، 7137 الاغر، منفوحة الجديدة، الرياض 12656 3868, Riyadh 12656",Mosque,24.6147472,46.723832
+319,جامع السلامة بحي منفوحة,"'24.6065183', '46.7116373'","JP46+JQ3, Manfouhah Al Jadidah, Riyadh 12655",Mosque,24.6065183,46.7116373
+320,Mosque Prince Mohammed bin Saud,"'24.6146738', '46.7195918'","3431 Manfuhah, Manfouhah Al Jadidah, Riyadh 12656",Mosque,24.6146738,46.7195918
+321,جامع الملك خالد,"'24.6044782', '46.7228962'","JP3F+Q7W, Ibn Al Arabi, Manfuhah, Riyadh 12683",Mosque,24.6044782,46.7228962
+322,جامع الأمير ناصر بن سعود وأخيه غالب -رحمهما الله-,"'24.6039721', '46.7184267'","JP39+HFQ، عفيف بن عبدالخالق، ممر،, Riyadh",Mosque,24.6039721,46.7184267
+323,جامع الملك خالد,"'24.6044782', '46.7228962'","JP3F+Q7W, Ibn Al Arabi, Manfuhah, Riyadh 12683",Mosque,24.6044782,46.7228962
+324,Masjid,"'24.6049882', '46.7204764'","3758 Loqman, Al Yamamah, Riyadh 12672",Mosque,24.6049882,46.7204764
+325,Masjid Fatimah Al Zahrah,"'24.6060565', '46.7207665'","2144 Ouraiarah, Manfuhah, Riyadh 12681",Mosque,24.6060565,46.7207665
+326,Masjid,"'24.6049882', '46.7204764'","3758 Loqman, Al Yamamah, Riyadh 12672",Mosque,24.6049882,46.7204764
+327,Prince Abdulrahman bin Abdullah Al-Saud Al-Yamamah neighborhood mosque,"'24.5999593', '46.7208702'","3828 العشيمة, Al Yamamah, Riyadh 12674",Mosque,24.5999593,46.7208702
+328,مسجد النسيج حي اليمامة,"'24.6055282', '46.7169622'","8262 المثناة،, Al Yamamah، 3420, Riyadh 12672",Mosque,24.6055282,46.7169622
+329,مسجد,"'24.6007752', '46.7196011'","RCYA7737، 7737 مبايض، 3710، حي اليمامة،, Riyadh 12674،",Mosque,24.6007752,46.7196011
+330,دار الذكر مقابل جامع التوحيد في الشارع الخامس بحي الجزيرة بالرياض,"'24.6700703', '46.7931928'","MQCV+29H، شارع الخامس, Al Jazirah, Riyadh 14252",Mosque,24.6700703,46.7931928
+331,مسجد ابن جبرين بالجزيرة,"'24.676224', '46.7897449'","3277, Al Jazirah، 7029, Riyadh 14251",Mosque,24.676224,46.7897449
+332,Al-Tawheed Mosque,"'24.6701416', '46.7934181'","MQCV+3F4, 4th, Al Jazirah, Riyadh 14251",Mosque,24.6701416,46.7934181
+333,Abdul Rahman Masjid,"'24.6764507', '46.7981838'","Al Jazirah، مسجد عبدالرحمن بن مهدي - حي الجزيرة تقاطع شارع 14 مع 7, Riyadh 14251",Mosque,24.6764507,46.7981838
+334,Abdul Rahman Masjid,"'24.6764507', '46.7981838'","Al Jazirah، مسجد عبدالرحمن بن مهدي - حي الجزيرة تقاطع شارع 14 مع 7, Riyadh 14251",Mosque,24.6764507,46.7981838
+335,Omar ibn AlKhattab Grand Mosque,"'24.677977', '46.7939622'","MQHV+5PR، شارع 15, Al Jazirah, Riyadh 14251",Mosque,24.677977,46.7939622
+336,Abdullah ibn Salamh Mosque,"'24.6752832', '46.7955914'","Al Jazirah، رقم 7, Riyadh 14251",Mosque,24.6752832,46.7955914
+337,جامع السلامة بحي منفوحة,"'24.6065183', '46.7116373'","JP46+JQ3, Manfouhah Al Jadidah, Riyadh 12655",Mosque,24.6065183,46.7116373
+338,Inam Ul Rub Mosque,"'24.6699627', '46.708548'","Inam Ul Rub Mosque, Al Murabba, Riyadh 12626",Mosque,24.6699627,46.708548
+339,Imam Turki Bin Abdullah Grand Mosque,"'24.6307011', '46.7101265'","Imam Turki Bin Abdullah, Ad Dirah, Riyadh 12634",Mosque,24.6307011,46.7101265
+340,جامع حي الضباط,"'24.6821814', '46.7195011'","7939 Al Amirah Sarah Bint Ahmad As Sadiri Ad Dhubbat Riyadh 12623 4041 Al Amirah Sarah Bint Ahmad As Sadiri, 4041, Ad Dhubbat, Riyadh 12623",Mosque,24.6821814,46.7195011
+341,جامع الغامدي - Masjid Al Ghamdi,"'24.6713527', '46.71257'","3356 Al Qairawani, Al Wizarat, 6733, Riyadh 12626",Mosque,24.6713527,46.71257
+342,جامع الغامدي - Masjid Al Ghamdi,"'24.6713527', '46.71257'","3356 Al Qairawani, Al Wizarat, 6733, Riyadh 12626",Mosque,24.6713527,46.71257
+343,Inam Ul Rub Mosque,"'24.6699627', '46.708548'","Inam Ul Rub Mosque, Al Murabba, Riyadh 12626",Mosque,24.6699627,46.708548
+344,Masjid,"'24.6739128', '46.7108493'","7001 الشويعر الحنفي, Al Wizarat, 3178، Riyadh 12626",Mosque,24.6739128,46.7108493
+345,جامع المنتزه الجنوبي,"'24.668858', '46.7120225'","الوزارات، 3285, الرياض 12626، شارع، ظهران الجنوب 12626",Mosque,24.668858,46.7120225
+346,مسجد الديره,"'24.6336174', '46.7053499'",2364 فياضة، الديرة، الرياض 12633 7195,Mosque,24.6336174,46.7053499
+347,Sheikh Muhammad bin Ibrahim Mosque,"'24.6275055', '46.7119561'","JPH6+2W2, Al Madina Al Munawwarah Rd, Ad Dirah, Riyadh 12652",Mosque,24.6275055,46.7119561
+348,مسجد الامير منصور,"'24.635129', '46.7110205'","JPP6+3G4، الديرة،, Riyadh",Mosque,24.635129,46.7110205
+349,Inam Ul Rub Mosque,"'24.6699627', '46.708548'","Inam Ul Rub Mosque, Al Murabba, Riyadh 12626",Mosque,24.6699627,46.708548
+350,Inam Ul Rub Mosque,"'24.6699627', '46.708548'","Inam Ul Rub Mosque, Al Murabba, Riyadh 12626",Mosque,24.6699627,46.708548
+351,جامع الغامدي - Masjid Al Ghamdi,"'24.6713527', '46.71257'","3356 Al Qairawani, Al Wizarat, 6733, Riyadh 12626",Mosque,24.6713527,46.71257
+352,Hara Jumuah Masjid হারা জুমুআ মসজিদ Eidgah Point 🌙,"'24.6700079', '46.7087227'","Inam Ul Rub Mosque, Al Murabba, Riyadh 12626",Mosque,24.6700079,46.7087227
+353,جامع حي الضباط,"'24.6821814', '46.7195011'","7939 Al Amirah Sarah Bint Ahmad As Sadiri Ad Dhubbat Riyadh 12623 4041 Al Amirah Sarah Bint Ahmad As Sadiri, 4041, Ad Dhubbat, Riyadh 12623",Mosque,24.6821814,46.7195011
+354,جامع حي الضباط,"'24.6821814', '46.7195011'","7939 Al Amirah Sarah Bint Ahmad As Sadiri Ad Dhubbat Riyadh 12623 4041 Al Amirah Sarah Bint Ahmad As Sadiri, 4041, Ad Dhubbat, Riyadh 12623",Mosque,24.6821814,46.7195011
+355,Iqraa Mosque,"'24.6827146', '46.7219996'","MPMC+3WM, Al Harith Ibn Al Habbab, Ad Dhubbat, Riyadh 12623",Mosque,24.6827146,46.7219996
+356,جامِع طَارق بن عَبدالرّحمـٰن مُرَاد | حي الضباط,"'24.6813659', '46.7238686'","7862 Abi Barzah Al Aslami, 4478, Ad Dhubbat, Riyadh 12623",Mosque,24.6813659,46.7238686
+357,مسجد,"'24.6901674', '46.720787'","MPRC+3C8, Al Harith Ibn Al Habbab, Ad Dhubbat, Riyadh 12623",Mosque,24.6901674,46.720787
+358,Masjid Almurabba,"'24.6675776', '46.7036576'","3409 الحسناء، المربع، الرياض 12612 7868 Al Hasana, 7868, Al Murabba, Riyadh 12612",Mosque,24.6675776,46.7036576
+359,Inam Ul Rub Mosque,"'24.6699627', '46.708548'","Inam Ul Rub Mosque, Al Murabba, Riyadh 12626",Mosque,24.6699627,46.708548
+360,King Abdulaziz Grand Mosque,"'24.6456592', '46.708825'","حي، 8745 الملك سعود, Al Murabba، 2722, Riyadh 12631",Mosque,24.6456592,46.708825
+361,Al-Madi Park Mosque,"'24.6474608', '46.7119766'","حي، 8745 الملك سعود, Al Murabba، 2722, Riyadh 12631",Mosque,24.6474608,46.7119766
+362,جامع عمر بن الخطاب رضي الله عنه حي الخالدية مدينة الرياض,"'24.6242163', '46.7533041'","Al Khalifah Al Maamoun, Al Khalidiyyah, حي, Riyadh 11414",Mosque,24.6242163,46.7533041
+363,مسجد الصِّغَيِّر,"'24.6224361', '46.7539086'","7105 الخليفة المامون، الخالدية، الرياض 12875 3807 الخليفة المامون، 3807, Al Khalidiyyah, Riyadh 12875",Mosque,24.6224361,46.7539086
+364,جامع طيبة,"'24.6305049', '46.7507922'","JQJ2+6C4، شارع الخليفة المأمون، حي الخالدية, Al Khalidiyyah, Riyadh 12873",Mosque,24.6305049,46.7507922
+365,Al-Madi Park Mosque,"'24.6474608', '46.7119766'","حي، 8745 الملك سعود, Al Murabba، 2722, Riyadh 12631",Mosque,24.6474608,46.7119766
+366,King Abdulaziz Grand Mosque,"'24.6456592', '46.708825'","حي، 8745 الملك سعود, Al Murabba، 2722, Riyadh 12631",Mosque,24.6456592,46.708825
+367,Al-Madi Park Mosque,"'24.6474608', '46.7119766'","حي، 8745 الملك سعود, Al Murabba، 2722, Riyadh 12631",Mosque,24.6474608,46.7119766
+368,Al-Murabba Mosque,"'24.645584', '46.7091784'","8654 Al Amir Abdullah Ibn Jalawi Ibn Turki, Al Murabba, Riyadh 12631",Mosque,24.645584,46.7091784
+369,جامع حي الملك عبدالعزيز,"'24.6976046', '46.7193226'","4080 Al Kitab, King Abdul Aziz، 4080 الكتاب، الملك عبدالعزيز، الرياض 12233 7605،, Riyadh 12233",Mosque,24.6976046,46.7193226
+370,جامع حي الملك عبدالعزيز,"'24.6976045', '46.7193226'","4080 Al Kitab, King Abdul Aziz، 4080 الكتاب، الملك عبدالعزيز، الرياض 12233 7605،, Riyadh 12233",Mosque,24.6976045,46.7193226
+371,Masjid aleuz bin eabd alsalam,"'24.6982069', '46.7135227'","3491 Prince Musaad Bin Abdulaziz St، 7651, Riyadh 12233",Mosque,24.6982069,46.7135227
+372,Masjid Alfaisaluah,"'24.6799813', '46.731429'","6161 Abi Ar Rida Al Muqri, 2887, Az Zahra, Riyadh 12812",Mosque,24.6799813,46.731429
+373,Al Eiman Mosque,"'24.6935372', '46.7081836'","MPV5+C99, Sulaimaniyah, Riyadh 12232",Mosque,24.6935372,46.7081836
+374,Al Eiman Mosque,"'24.6935372', '46.7081836'","MPV5+C99, Sulaimaniyah, Riyadh 12232",Mosque,24.6935372,46.7081836
+375,مسجد العرفج,"'24.6937285', '46.7041375'","2547, As Sulimaniyah، 7075-7105 الشامية،, Riyadh 12232",Mosque,24.6937285,46.7041375
+376,King Fahad Grand Mosque,"'24.6712784', '46.6576508'","MMC5+G58, Al Hada, Riyadh 12722",Mosque,24.6712784,46.6576508
+377,Al Ihsan Mosque,"'24.6930876', '46.7018093'","MPV2+6RQ, As Sulimaniyah, Riyadh 12232",Mosque,24.6930876,46.7018093
+378,جامع عبد العزيز بن عبد الكريم المعيوف,"'24.6857689', '46.7136275'","8248 Safwan Ibn Ummiyyah, 3427, Al Wizarat, Riyadh 12622",Mosque,24.6857689,46.7136275
+379,Al - Mallouhi Mosque,"'24.6946496', '46.6872248'","MMVQ+V22, Al Jabiri, Al Olaya, Riyadh 12222",Mosque,24.6946496,46.6872248
+380,Khalid Bin Alwaleed Mosque,"'24.692495', '46.6988004'","3558 Ahmad At Tartush, 7384, Al Olaya, Riyadh 12221",Mosque,24.692495,46.6988004
+381,King Khalid Mosque,"'24.6910539', '46.6889951'","Prince Sultan Bin Abdulaziz Rd, Al Olaya, Riyadh 12222",Mosque,24.6910539,46.6889951
+382,King Khalid Mosque,"'24.6910539', '46.6889951'","Prince Sultan Bin Abdulaziz Rd, Al Olaya, Riyadh 12222",Mosque,24.6910539,46.6889951
+383,King Abdulaziz Mosque,"'24.6880978', '46.6882006'","MMQQ+69Q, Olaya St, Al Olaya, Riyadh 12221",Mosque,24.6880978,46.6882006
+384,AlRawi Grand Mosque,"'24.6968952', '46.6862943'","Al Karimi, Al Olaya, Riyadh 12222",Mosque,24.6968952,46.6862943
+385,mosque,"'24.6910277', '46.6937603'","7180 الجريري، العليا الرياض 12221 3026 Al Jariri, 3026, Al Olaya, Riyadh 12221",Mosque,24.6910277,46.6937603
+386,Princess Anoud Mosque,"'24.688888', '46.6951232'","MMQW+H53, Soufian Al Thawri, Al Olaya, Riyadh 12221",Mosque,24.688888,46.6951232
+387,mosque,"'24.6910277', '46.6937603'","7180 الجريري، العليا الرياض 12221 3026 Al Jariri, 3026, Al Olaya, Riyadh 12221",Mosque,24.6910277,46.6937603
+388,King Khalid Mosque,"'24.6910539', '46.6889951'","Prince Sultan Bin Abdulaziz Rd, Al Olaya, Riyadh 12222",Mosque,24.6910539,46.6889951
+389,Badr Mosque,"'24.6943628', '46.6921637'","7578 Shuja Ibn Wahb, Al Olaya, Riyadh 12222 2872 Shouja Ibn Wahb, 2872, Al Olaya, Riyadh 12222",Mosque,24.6943628,46.6921637
+390,AlRawi Grand Mosque,"'24.6968952', '46.6862943'","Al Karimi, Al Olaya, Riyadh 12222",Mosque,24.6968952,46.6862943
+391,Badr Mosque,"'24.6943628', '46.6921637'","7578 Shuja Ibn Wahb, Al Olaya, Riyadh 12222 2872 Shouja Ibn Wahb, 2872, Al Olaya, Riyadh 12222",Mosque,24.6943628,46.6921637
+392,Sheikh Mohammed Bin Abdulaziz Alrajhi Mosque,"'24.6384707', '46.6647868'","JMQ8+92P, Ibn Al Zorieqan, Ar Rafiah, Riyadh 12753",Mosque,24.6384707,46.6647868
+393,King Khalid Mosque,"'24.6910539', '46.6889951'","Prince Sultan Bin Abdulaziz Rd, Al Olaya, Riyadh 12222",Mosque,24.6910539,46.6889951
+394,Fatima Zahra Masjid,"'24.7423005', '46.6870156'","PMRP+WWG, Abi Dajanah, Al Mursilat, Riyadh 12461",Mosque,24.7423005,46.6870156
+395,Fatma Alzahraa mosque,"'24.7700648', '46.7049408'","QPC4+23H, At Taawun, Riyadh 12476",Mosque,24.7700648,46.7049408
+396,مسجد الزهرة,"'24.6704076', '46.7367488'","7073 Al Ihsaa, Al Malaz, Riyadh 12836",Mosque,24.6704076,46.7367488
+397,An Nada Mosque,"'24.8019409', '46.6931257'","RM2V+Q9F, An Nada, Riyadh 13317",Mosque,24.8019409,46.6931257
+398,جامع منيرة حمد الشبيلي,"'24.8053255', '46.7091016'","3333 الامير سعود بن محمدبن مقرن, Al Falah, 8241, Riyadh 13314",Mosque,24.8053255,46.7091016
+399,Riadh AlSaliheen Mosque,"'24.7524881', '46.6597738'","3001 Ibn Ziad, Al Muruj, Riyadh 12281",Mosque,24.7524881,46.6597738
+400,جامع رياض الصالحين بحي النخيل الشرقي بمدينة الرياض,"'24.7551669', '46.6432657'","4657 الشيخ علي الحمد الصالحي، النخيل الرياض 12383 8208 Al Cheikh Ali Al Hamad Al Salihi, 8208, An Nakheel, Riyadh 12383",Mosque,24.7551669,46.6432657
+401,Haya Abdullah Hussein Mosque,"'24.7982253', '46.7060486'","QPX4+7GX, Al Falah, Riyadh 13314",Mosque,24.7982253,46.7060486
+402,Ghazzawi Mosque.,"'24.6621614', '46.7248978'","MP6G+V38, Zarqa Al Yamamah, Al Malaz, Riyadh 12629",Mosque,24.6621614,46.7248978
+403,جامع الشيخ عبد العزيز البراهيم,"'24.684858', '46.7288631'","MPMH+WMV، شارع أصفانة، حي الملز, Az Zahra, Riyadh 12812",Mosque,24.684858,46.7288631
+404,مسجد الهاجري بحي الملز,"'24.6731774', '46.732821'","7374 Abi Al Ala Al Maari, 2689, Al Malaz، 7374 ابي العلاء المعري، الملز، الرياض 12831 2689, Riyadh 12831",Mosque,24.6731774,46.732821
+405,Almalz Masjid جامع الملز,"'24.6706974', '46.7287256'","MPCH+7JC, Al Malaz, Riyadh 12831",Mosque,24.6706974,46.7287256
+406,Almalz Masjid جامع الملز,"'24.6706974', '46.7287256'","MPCH+7JC, Al Malaz, Riyadh 12831",Mosque,24.6706974,46.7287256
+407,مسجد حديقة أبو مخروق,"'24.6726412', '46.7262714'","4741 Arafat, Ad Dhubbat, Riyadh 12627",Mosque,24.6726412,46.7262714
+408,مسجد الهاجري بحي الملز,"'24.6731774', '46.732821'","7374 Abi Al Ala Al Maari, 2689, Al Malaz، 7374 ابي العلاء المعري، الملز، الرياض 12831 2689, Riyadh 12831",Mosque,24.6731774,46.732821
+409,Prince Bandar Mosque,"'24.6709146', '46.7418262'","MPCR+9R9, Amir Ibn Thabit, Al Malaz, Riyadh 12836",Mosque,24.6709146,46.7418262
+410,Mosque AlFaruq,"'24.6505062', '46.7604364'","MQ26+675, Hamad Ibn Atiq, Al Faruq, Riyadh 12861",Mosque,24.6505062,46.7604364
+411,جامع الأمير متعب بن عبدالعزيز حي الفاروق,"'24.652589', '46.7568489'",7308، 2260 ابي محمد بن حمدان، الفاروق، الرياض 12861 7308، 12861,Mosque,24.652589,46.7568489
+412,Prince Bandar Mosque,"'24.6709146', '46.7418262'","MPCR+9R9, Amir Ibn Thabit, Al Malaz, Riyadh 12836",Mosque,24.6709146,46.7418262
+413,جامع الحبيب,"'24.650488', '46.7644862'",3042 ابي عبدالله محمد ايوب، الفاروق الرياض 12861 7094 12861,Mosque,24.650488,46.7644862
+414,جامع المرقب القديم,"'24.6338097', '46.721084'","2650 برهان الدين الداراني، حي, Almarqab، 6427, Riyadh 12645",Mosque,24.6338097,46.721084
+415,جامع الحبيب,"'24.650488', '46.7644862'",3042 ابي عبدالله محمد ايوب، الفاروق الرياض 12861 7094 12861,Mosque,24.650488,46.7644862
+416,مسجد الشعبة بحي المرقب,"'24.6361939', '46.7217584'","JPPC+FRF, Almarqab, Riyadh 12645",Mosque,24.6361939,46.7217584
+417,مسجد سوق المرقب,"'24.6354565', '46.720635'",6599، 2596 عمرو بن مسعود، المرقب الرياض 12645,Mosque,24.6354565,46.720635
+418,Mosque,"'24.616942', '46.7020813'","5257 Ibrahim Al Attar, Al Jaradiyah, Riyadh 12771 8054 Ibrahim Al Attar, 8054, Al Jaradiyah, Riyadh 12771",Mosque,24.616942,46.7020813
+419,مسجد العكيل والسعيد,"'24.6145211', '46.7015527'","تقاطع شارع الصمد وشارع خالد بن عدي بحي الجراديه, Riyadh",Mosque,24.6145211,46.7015527
+420,جامع السويلم حي الجرادية,"'24.6203339', '46.6921986'","JMCR+4XQ, Muslimah Ibn Abdul Malik, Al Jaradiyah, Riyadh 12747",Mosque,24.6203339,46.6921986
+421,مسجد جامع بن غانم,"'24.6157802', '46.7004291'",7923، 5087، الجرادية، الرياض 12771,Mosque,24.6157802,46.7004291
+422,مسجد جامع بن غانم,"'24.6157802', '46.7004291'",7923، 5087، الجرادية، الرياض 12771,Mosque,24.6157802,46.7004291
+423,مسجد بطيحاء آل عمران,"'24.6129098', '46.6949991'",7599، 4546 قطيم الصانع، الجرادية، الرياض 12771,Mosque,24.6129098,46.6949991
+424,مسجد العكيل والسعيد,"'24.6145211', '46.7015527'","تقاطع شارع الصمد وشارع خالد بن عدي بحي الجراديه, Riyadh",Mosque,24.6145211,46.7015527
+425,Masjid Malik Salman bin Abdul Aziz,"'24.6122014', '46.6964801'","7490 Al Jawba, 4669, Al Jaradiyah، 7490 الجوبة، الجرادية، الرياض 12771 4669, Riyadh 12771",Mosque,24.6122014,46.6964801
+426,Al Falah Grand Mosque,"'24.7901563', '46.7023124'","QPR3+329, Uthman Ibn Affan Rd, Al Falah, Riyadh 13314",Mosque,24.7901563,46.7023124
+427,Dar Al Uloom Grand Mosque,"'24.7969592', '46.7083095'","QPW5+QCQ, Shaikh Abdullah Al Makhdub St, Al Falah, Riyadh 13314",Mosque,24.7969592,46.7083095
+428,Al falah,"'24.798886', '46.7027413'",2674 محمد بن المحدث، الفلاح، الرياض 13314 7513،,Mosque,24.798886,46.7027413
+429,Moghames Mosque,"'24.7933189', '46.7118278'","QPV6+8VC, Ajman St, Al Falah, Riyadh 13314",Mosque,24.7933189,46.7118278
+430,Othman Bin Affan Mosque,"'24.7932918', '46.6989973'","Uthman Ibn Affan Branch Rd، الرياض - حي الوادي طريق عثمان بن عفان رضي الله عنه, Riyadh",Mosque,24.7932918,46.6989973
+431,Moghames Mosque,"'24.7933189', '46.7118278'","QPV6+8VC, Ajman St, Al Falah, Riyadh 13314",Mosque,24.7933189,46.7118278
+432,Al-Fatih Mosque,"'24.7943124', '46.6897246'","QMVR+P2C, Al Misroh, Al Wadi, Riyadh 13313",Mosque,24.7943124,46.6897246
+433,Dar Al Uloom Grand Mosque,"'24.7969592', '46.7083095'","QPW5+QCQ, Shaikh Abdullah Al Makhdub St, Al Falah, Riyadh 13314",Mosque,24.7969592,46.7083095
+434,An Nada Mosque,"'24.8019409', '46.6931257'","RM2V+Q9F, An Nada, Riyadh 13317",Mosque,24.8019409,46.6931257
+435,Al Nada Mosque,"'24.8132495', '46.688309'","RM7Q+7CX, Al Qadih, An Nada, Riyadh 13317",Mosque,24.8132495,46.688309
+436,Abu Bakr Al-Siddiq Mosque,"'24.8001491', '46.6828709'","RM2M+373, An Nada, Riyadh 13317",Mosque,24.8001491,46.6828709
+437,Mosque,"'24.800102', '46.6878018'","RM2Q+26X, An Nada, Riyadh 13317",Mosque,24.800102,46.6878018
+438,Sheikh Ibn Jibreen Mosque,"'24.7944025', '46.6725961'","QMVF+Q56, Ar Rabi, Riyadh 13316",Mosque,24.7944025,46.6725961
+439,جامع التقوى الربيع,"'24.8064736', '46.6683537'","Ar Rabi, Riyadh 13316",Mosque,24.8064736,46.6683537
+440,Al Rabie Grand Mosque,"'24.8033001', '46.6635509'","RM37+8GH, Al Dhamir, Ar Rabi, Riyadh 13316",Mosque,24.8033001,46.6635509
+441,جامع الشيخ عبدالعزيز الفريح,"'24.8044566', '46.6909292'","RM3R+QFQ, An Nada, Riyadh 13317",Mosque,24.8044566,46.6909292
+442,جامع الشيخ عبدالعزيز الفريح,"'24.8044566', '46.6909292'","RM3R+QFQ, An Nada, Riyadh 13317",Mosque,24.8044566,46.6909292
+443,Taqwa Mosque,"'24.7902581', '46.6749189'","3501, 8270, An Nafal, Riyadh 13312",Mosque,24.7902581,46.6749189
+444,Abu Bakr Mosque,"'24.7849307', '46.677359'","QMMH+X3F, Al Hanak, An Nafal, Riyadh 13312",Mosque,24.7849307,46.677359
+445,Abdullah Bin Nasser Al Wahaibi Grand Mosque,"'24.778766', '46.6786196'","QMHH+GH3, Khaleej Tounis, An Nafal, Riyadh 13312",Mosque,24.778766,46.6786196
+446,Al-Juhaimi Mosque,"'24.7766162', '46.676143'","6755 Abdulrahman Al Atqi, An Nafal, Riyadh 13312",Mosque,24.7766162,46.676143
+447,Abdullah Bin Nasser Al Wahaibi Grand Mosque,"'24.778766', '46.6786196'","QMHH+GH3, Khaleej Tounis, An Nafal, Riyadh 13312",Mosque,24.778766,46.6786196
+448,Sheikh Abdul Aziz bin Baz Mosque,"'24.7711294', '46.6605368'","QMC6+F84, Is'haq Ibn Ibrahim St, Al Ghadir, Riyadh 13311",Mosque,24.7711294,46.6605368
+449,Almojel Mosque,"'24.7804002', '46.676854'","QMJG+5V6, Al Harjah, An Nafal, Riyadh 13312",Mosque,24.7804002,46.676854
+450,Abdullah Bin Nasser Al Wahaibi Grand Mosque,"'24.778766', '46.6786196'","QMHH+GH3, Khaleej Tounis, An Nafal, Riyadh 13312",Mosque,24.778766,46.6786196
+451,Almojel Mosque,"'24.7804002', '46.676854'","QMJG+5V6, Al Harjah, An Nafal, Riyadh 13312",Mosque,24.7804002,46.676854
+452,جامع لولوة المطوع رحمها الله,"'24.7884306', '46.6449479'","QJQW+93H, Al Thoumamah Rd, As Sahafah, Riyadh 13315",Mosque,24.7884306,46.6449479
+453,جامع الياسمين,"'24.7882713', '46.641292'","Araom Mountain St, As Sahafah, Riyadh 13315",Mosque,24.7882713,46.641292
+454,Habib Mosque,"'24.7806621', '46.632199'","7221 Al Atlal, Al Aqiq, Riyadh 13515",Mosque,24.7806621,46.632199
+455,Masjid abu bakar Siddiq,"'24.7873347', '46.6320729'","QJPJ+WWQ, شارع الربيان، حي, Al Aqiq, Riyadh 13515",Mosque,24.7873347,46.6320729
+456,مسجد الإخلاص بحي العقيق - الرياض,"'24.7794086', '46.6362528'","7080 Al Usamalah, Al Aqiq, Riyadh 13515",Mosque,24.7794086,46.6362528
+457,Al Furqan Mosque,"'24.7881518', '46.6273204'","QJQH+729, Al Manarah, Al Aqiq, Riyadh 13515",Mosque,24.7881518,46.6273204
+458,مسجد حطين,"'24.7712017', '46.6131916'","7015 Wadi Al Amariyah, Hittin, 3776, Riyadh 13516",Mosque,24.7712017,46.6131916
+459,Ar Rahmah Mosque Grand,"'24.7738693', '46.6153154'","7307 Sinan, Hittin, Riyadh 13516",Mosque,24.7738693,46.6153154
+460,Hittin Grand Mosque,"'24.7633526', '46.6174267'","QJ79+83X, Hittin, Riyadh 13512",Mosque,24.7633526,46.6174267
+461,Hittin Grand Mosque,"'24.7762522', '46.5727884'","QHGF+G64, King Khalid Br Rd, Al Malqa, Riyadh 13523",Mosque,24.7762522,46.5727884
+462,Hittin Grand Mosque,"'24.7762521', '46.5727884'","QHGF+G64, King Khalid Br Rd, Al Malqa, Riyadh 13523",Mosque,24.7762521,46.5727884
+463,Mosque,"'24.8024787', '46.6187746'","RJ29+XJW, Al Howeita St, Al Malqa, Riyadh 13521",Mosque,24.8024787,46.6187746
+464,Tawhid Mosque,"'24.8127361', '46.5927188'","تلال, Al Malqa, Riyadh 13525",Mosque,24.8127361,46.5927188
+465,Ghadah Albrahim Mosque,"'24.786304', '46.6113846'","QJP6+GMF, Al Imam Saud Ibn Faysal Rd, Al Malqa, Riyadh 13522",Mosque,24.786304,46.6113846
+466,Ghadah Albrahim Mosque,"'24.7863039', '46.6113846'","QJP6+GMF, Al Imam Saud Ibn Faysal Rd, Al Malqa, Riyadh 13522",Mosque,24.7863039,46.6113846
+467,جامع الياسمين,"'24.7882713', '46.641292'","Araom Mountain St, As Sahafah, Riyadh 13315",Mosque,24.7882713,46.641292
+468,مسجد الهدى,"'24.7869711', '46.6068233'",رقم 173، الرياض 13522،,Mosque,24.7869711,46.6068233
+469,Princess Zhawah Mosque,"'24.7896031', '46.6134185'","3090 Al Hasib, Al Malqa, Riyadh 13521",Mosque,24.7896031,46.6134185
+470,Ghadah Albrahim Mosque,"'24.786304', '46.6113846'","QJP6+GMF, Al Imam Saud Ibn Faysal Rd, Al Malqa, Riyadh 13522",Mosque,24.786304,46.6113846
+471,جامع عمر بارشيد,"'24.7932857', '46.616381'","QJV8+8M7, Al Malqa, Riyadh 13521",Mosque,24.7932857,46.616381
+472,Princess Zhawah Mosque,"'24.7896031', '46.6134185'","3090 Al Hasib, Al Malqa, Riyadh 13521",Mosque,24.7896031,46.6134185
+473,Abu Baker Alsedeeq Mosque,"'24.8317342', '46.6892432'","RMJQ+MRV, An Narjis, Riyadh 13324",Mosque,24.8317342,46.6892432
+474,Alarid Mosque,"'24.8674981', '46.6368704'",شارع القصر، الرياض 13335،,Mosque,24.8674981,46.6368704
+475,Al-Dahayan Grand Masjid,"'24.8935511', '46.614374'","VJV7+CVF, Al Aarid, Riyadh 13342",Mosque,24.8935511,46.614374
+476,جامع الإحسان,"'24.856109', '46.6315633'","VJ4J+CPX, Al Aarid, Riyadh 13335",Mosque,24.856109,46.6315633
+477,Abdulaziz Alfaris Mosque,"'24.8554299', '46.6242566'","حي, 7510 طريق الملك عبدالعزيز، العارض، الرياض 13334 5003،",Mosque,24.8554299,46.6242566
+478,Abdulaziz Alfaris Mosque,"'24.8554299', '46.6242566'","حي, 7510 طريق الملك عبدالعزيز، العارض، الرياض 13334 5003،",Mosque,24.8554299,46.6242566
+479,جامع الحميدان,"'24.8377998', '46.6033119'",8058 مقاتل بن سليمان، القيروان، الرياض 13531 3606،,Mosque,24.8377998,46.6033119
+480,Mosque of Kairouan,"'24.8277244', '46.6105247'","RJH6+38P, Al Qirawan, Riyadh 13531",Mosque,24.8277244,46.6105247
+481,Mosque,"'24.8248094', '46.5914789'","RHFR+WPC, Al Qirawan, Riyadh 13532",Mosque,24.8248094,46.5914789
+482,Mosque,"'24.8248094', '46.5914789'","RHFR+WPC, Al Qirawan, Riyadh 13532",Mosque,24.8248094,46.5914789
+483,North Al Qirawan Mosque,"'24.8259044', '46.5878798'","RHGQ+977, Al Qirawan, Riyadh 13532",Mosque,24.8259044,46.5878798
+484,Mosque,"'24.8259044', '46.5878798'","RHGQ+986, Al Qirawan, Riyadh 13532",Mosque,24.8259044,46.5878798
+485,Al Nafie Mosque,"'24.8211351', '46.6022615'","RJC3+F23، طريق الملك سلمان - حي القيروان, Al Malqa, Riyadh 13524",Mosque,24.8211351,46.6022615
+486,جامع الخير والإحسان,"'24.8161535', '46.5958168'","RH8W+FC9, شارع ٣٩٠، حي, Al Malqa, Riyadh 13525",Mosque,24.8161535,46.5958168
+487,Al Kraidees Grand Mosque,"'24.8225683', '46.6000959'","3273, Al Qirawan، 6385, Riyadh 13531",Mosque,24.8225683,46.6000959
+488,Al Nafie Mosque,"'24.8211351', '46.6022615'","RJC3+F23، طريق الملك سلمان - حي القيروان, Al Malqa, Riyadh 13524",Mosque,24.8211351,46.6022615
+489,Alkhair Grand Mosque,"'24.758116', '46.6273093'","QJ5H+62X, Al Aqiq, Riyadh 13511",Mosque,24.758116,46.6273093
+490,Alkhair Grand Mosque,"'24.758116', '46.6273093'","QJ5H+62X, Al Aqiq, Riyadh 13511",Mosque,24.758116,46.6273093
+491,Prince Mohammed bin Saad Mosque,"'24.7590746', '46.6240462'","QJ5F+JPH, Al Ghabra, Hittin, Riyadh 13512",Mosque,24.7590746,46.6240462
+492,مصلى الرجال - الرياض بارك مول,"'24.7569724', '46.6301518'","QJ4J+Q5, Al Aqiq, Riyadh 13511",Mosque,24.7569724,46.6301518
+493,King Khalid Grand Mosque,"'24.7009662', '46.6522357'","PM23+92M، شارع أم الحمام، أم الحمام الغربي،, Riyadh 11564",Mosque,24.7009662,46.6522357
+494,King Khalid Grand Mosque,"'24.7009661', '46.6522357'","PM23+92M، شارع أم الحمام، أم الحمام الغربي،, Riyadh 11564",Mosque,24.7009661,46.6522357
+495,Prince Mohammed Bin Abdulaziz Mosque,"'24.6928244', '46.6663852'","MMV8+4MF, Ashiqar, Al Mathar Ash Shamali, Riyadh 12332",Mosque,24.6928244,46.6663852
+496,مسجد العقيق,"'24.7635857', '46.6273292'","QJ7H+C3J, Al Aqiq, Riyadh 13511",Mosque,24.7635857,46.6273292
+497,King Abdullah Bin Abdul Aziz Mosque,"'24.7061836', '46.6554799'","6218 Al Urubah Rd, حي الرحمانية، 2898، Riyadh 12342",Mosque,24.7061836,46.6554799
+498,King Khalid Grand Mosque,"'24.7009662', '46.6522357'","PM23+92M، شارع أم الحمام، أم الحمام الغربي،, Riyadh 11564",Mosque,24.7009662,46.6522357
+499,جامع الياسمين,"'24.7882713', '46.641292'","Araom Mountain St, As Sahafah, Riyadh 13315",Mosque,24.7882713,46.641292
+500,Masjid Abdullah bin Abbas Al-Yasmin dist.,"'24.8372321', '46.650423'","3546, 8022, Alyasmin, Riyadh 13326",Mosque,24.8372321,46.650423
+501,Abu Himd Mosque,"'24.8220436', '46.6253202'","RJCG+R69, Ahmed Al Ansari Al Khazraji, Alyasmin, Riyadh 13325",Mosque,24.8220436,46.6253202
+502,Abu Himd Mosque,"'24.8220435', '46.6253202'","RJCG+R69, Ahmed Al Ansari Al Khazraji, Alyasmin, Riyadh 13325",Mosque,24.8220435,46.6253202
+503,مسجد الياسمين,"'24.8124025', '46.6302976'","8066 الشواطئ, As Sahafah, Riyadh 13321",Mosque,24.8124025,46.6302976
+504,Shaikh Mohammed Bin Abdulaziz Bin Sultan Mosque,"'24.808827', '46.6313973'","Shaikh Mohammed Bin Abdulaziz Bin Sultan Mosque, As Sahafah, Riyadh 13321",Mosque,24.808827,46.6313973
+505,جامع عبدالعزيز بن عثمان المفدّى,"'24.813244', '46.6395197'",8173 النشرة، الصحافة، الرياض 13321 3755،,Mosque,24.813244,46.6395197
+506,جامع عبدالعزيز بن عثمان المفدّى,"'24.813244', '46.6395197'",8173 النشرة، الصحافة، الرياض 13321 3755،,Mosque,24.813244,46.6395197
+507,Al-Fayiz Mosque,"'24.8160461', '46.6406188'","RJ8R+C97, Al Naqra, As Sahafah, Riyadh 13321",Mosque,24.8160461,46.6406188
+508,Al Rabie Grand Mosque,"'24.8033001', '46.6635509'","RM37+8GH, Al Dhamir, Ar Rabi, Riyadh 13316",Mosque,24.8033001,46.6635509
+509,Al Sultan Mosque,"'24.8208584', '46.6363484'","7104 Al Nafl, Alyasmin, Riyadh 13325",Mosque,24.8208584,46.6363484
+510,Al-Ghadeer Grand Mosque,"'24.7733214', '46.6450156'","جامع حي الغدير, Al Ghadir, Riyadh 13311",Mosque,24.7733214,46.6450156
+511,Sheikh Abdul Aziz bin Baz Mosque,"'24.7711294', '46.6605368'","QMC6+F84, Is'haq Ibn Ibrahim St, Al Ghadir, Riyadh 13311",Mosque,24.7711294,46.6605368
+512,Abdullah bin Masood Mosque,"'24.770568', '46.6496303'","Al Ghadir, Riyadh 13311",Mosque,24.770568,46.6496303
+513,Princess Al-Anod bint Mohammad Mosque,"'24.774575', '46.6551278'","QMF4+R5F, Muhammad Al Maqdimi, Al Ghadir, Riyadh 13311",Mosque,24.774575,46.6551278
+514,Princess Al-Anod bint Mohammad Mosque,"'24.7745749', '46.6551278'","QMF4+R5F, Muhammad Al Maqdimi, Al Ghadir, Riyadh 13311",Mosque,24.7745749,46.6551278
+515,Abdulaziz Nasser Almajed’s Mosque,"'24.7788844', '46.6548228'","QMH4+H25, Al Bandaq, Al Ghadir, Riyadh 13311",Mosque,24.7788844,46.6548228
+516,Suliman Abdullah Al-Yahya Mosque,"'24.779625', '46.6642'","2444 Muhammad Al Maqdimi, 7078, An Nafal, 7078, Riyadh 13312",Mosque,24.779625,46.6642
+517,Atteen Mosque,"'24.7737127', '46.6519749'","3347, Al Ghadir, Riyadh 13311",Mosque,24.7737127,46.6519749
+518,Atteen Mosque,"'24.7737126', '46.6519749'","3347, Al Ghadir, Riyadh 13311",Mosque,24.7737126,46.6519749
+519,Zaid ibn Thabit Mosque,"'24.7840813', '46.6844938'","QMMM+JWM, Al Majdal, Al Wadi, Riyadh 13313",Mosque,24.7840813,46.6844938
+520,Al-Fatih Mosque,"'24.7943124', '46.6897246'","QMVR+P2C, Al Misroh, Al Wadi, Riyadh 13313",Mosque,24.7943124,46.6897246
+521,Masjid Hundt,"'24.7910836', '46.6838788'","2606, Al Wadi, Riyadh 13313",Mosque,24.7910836,46.6838788
+522,An Nada Mosque,"'24.8019409', '46.6931257'","RM2V+Q9F, An Nada, Riyadh 13317",Mosque,24.8019409,46.6931257
+523,Abu Bakr Al-Siddiq Mosque,"'24.8001491', '46.6828709'","RM2M+373, An Nada, Riyadh 13317",Mosque,24.8001491,46.6828709
+524,Al Nada Mosque,"'24.8132495', '46.688309'","RM7Q+7CX, Al Qadih, An Nada, Riyadh 13317",Mosque,24.8132495,46.688309
+525,Mother of Prince Bandar bin Abdulaziz Mosque,"'24.7958747', '46.6774877'","QMWH+84V, An Nada, Riyadh 13317",Mosque,24.7958747,46.6774877
+526,Al Falah Grand Mosque,"'24.7901563', '46.7023124'","QPR3+329, Uthman Ibn Affan Rd, Al Falah, Riyadh 13314",Mosque,24.7901563,46.7023124
+527,Dar Al Uloom Grand Mosque,"'24.7969592', '46.7083095'","QPW5+QCQ, Shaikh Abdullah Al Makhdub St, Al Falah, Riyadh 13314",Mosque,24.7969592,46.7083095
+528,Moghames Mosque,"'24.7933189', '46.7118278'","QPV6+8VC, Ajman St, Al Falah, Riyadh 13314",Mosque,24.7933189,46.7118278
+529,Al falah,"'24.798886', '46.7027413'",2674 محمد بن المحدث، الفلاح، الرياض 13314 7513،,Mosque,24.798886,46.7027413
+530,Abrrar Mosque,"'24.7726369', '46.7189285'","QPF9+3M5 حي, Al Izdihar, Riyadh 12485",Mosque,24.7726369,46.7189285
+531,جامع الدكتور مانع الجهني,"'24.7830539', '46.7096887'","QPM5+6XH, Al Hamami, Al Izdihar, Riyadh 12487",Mosque,24.7830539,46.7096887
+532,AlNoor Grand Mosque,"'24.7746844', '46.7157169'","3133 Mouslama Al Ansari, Al Izdihar, Riyadh 12485",Mosque,24.7746844,46.7157169
+533,مسجد البراء بن مالك,"'24.783769', '46.7123153'","2815 Qabis, Al Izdihar, Riyadh 12487",Mosque,24.783769,46.7123153
+534,مسجد البراء بن مالك,"'24.783769', '46.7123153'","2815 Qabis, Al Izdihar, Riyadh 12487",Mosque,24.783769,46.7123153
+535,جامع الدكتور مانع الجهني,"'24.7830539', '46.7096887'","QPM5+6XH, Al Hamami, Al Izdihar, Riyadh 12487",Mosque,24.7830539,46.7096887
+536,مسجد الشثري Mosque,"'24.7836026', '46.715673'","7669 Abi Aal Ghanaim, Al Izdihar, Riyadh 12488",Mosque,24.7836026,46.715673
+537,AlNoor Grand Mosque,"'24.7746844', '46.7157169'","3133 Mouslama Al Ansari, Al Izdihar, Riyadh 12485",Mosque,24.7746844,46.7157169
+538,AlNoor Grand Mosque,"'24.7746844', '46.7157169'","3133 Mouslama Al Ansari, Al Izdihar, Riyadh 12485",Mosque,24.7746844,46.7157169
+539,مسجد جامع,"'24.7750194', '46.7159163'","6692 شارع المكلا، 3188،، الازدهار،, Riyadh 12485،",Mosque,24.7750194,46.7159163
+540,Abrrar Mosque,"'24.7726369', '46.7189285'","QPF9+3M5 حي, Al Izdihar, Riyadh 12485",Mosque,24.7726369,46.7189285
+541,Dawa Mosque,"'24.7786853', '46.721704'","3771 Attaf Ibn Nashah, 7119, Al Izdihar, Riyadh 12486",Mosque,24.7786853,46.721704
+542,Dawa Mosque,"'24.7786853', '46.721704'","3771 Attaf Ibn Nashah, 7119, Al Izdihar, Riyadh 12486",Mosque,24.7786853,46.721704
+543,Prince Bader's Mother Mosque,"'24.77857', '46.724189'","Touraif, Al Izdihar, Riyadh 12486",Mosque,24.77857,46.724189
+544,Tariq bin Ziyad Mosque,"'24.7706465', '46.6857276'","QMCP+7C2, Dhuayb Ibn Shuraih, Almasiaf, Riyadh 12468",Mosque,24.7706465,46.6857276
+545,Imam Ahmad Bin Hanbal Masjid,"'24.7672942', '46.6886343'","7552 العباس بن الاحنف, Almasiaf, Riyadh 12466",Mosque,24.7672942,46.6886343
+546,Al Qhadi Grand Mosque,"'24.7729531', '46.6905578'","QMFR+58Q, Al Harith Ibn Umairah, At Taawun, Riyadh 12477",Mosque,24.7729531,46.6905578
+547,Prince Sultan Mosque,"'24.7638874', '46.695141'","QM7W+H54, Al Hussain Ibn Sadaqah, At Taawun, Riyadh 12475",Mosque,24.7638874,46.695141
+548,Zubair bin Awam Mosque,"'24.7684699', '46.6932303'","QM9V+9CJ, Al Muhsin At Tanukhi, At Taawun, Riyadh 12475",Mosque,24.7684699,46.6932303
+549,Masjid Omar Bin Alkhattab,"'24.7724637', '46.7081323'","4246 الفاتح، التعاون الرياض 12476 7303 Al Fatih, 7303, At Taawun, Riyadh 12476",Mosque,24.7724637,46.7081323
+550,Abrrar Mosque,"'24.7726369', '46.7189285'","QPF9+3M5 حي, Al Izdihar, Riyadh 12485",Mosque,24.7726369,46.7189285
+551,AlNoor Grand Mosque,"'24.7746844', '46.7157169'","3133 Mouslama Al Ansari, Al Izdihar, Riyadh 12485",Mosque,24.7746844,46.7157169
+552,جامع الدكتور مانع الجهني,"'24.7830539', '46.7096887'","QPM5+6XH, Al Hamami, Al Izdihar, Riyadh 12487",Mosque,24.7830539,46.7096887
+553,مسجد البراء بن مالك,"'24.783769', '46.7123153'","2815 Qabis, Al Izdihar, Riyadh 12487",Mosque,24.783769,46.7123153
+554,جامع الدكتور مانع الجهني,"'24.7830539', '46.7096887'","QPM5+6XH, Al Hamami, Al Izdihar, Riyadh 12487",Mosque,24.7830539,46.7096887
+555,مسجد البراء بن مالك,"'24.783769', '46.7123153'","2815 Qabis, Al Izdihar, Riyadh 12487",Mosque,24.783769,46.7123153
+556,مسجد الشثري Mosque,"'24.7836026', '46.715673'","7669 Abi Aal Ghanaim, Al Izdihar, Riyadh 12488",Mosque,24.7836026,46.715673
+557,Neighborhood Mosque,"'24.7675891', '46.7206485'","QP9C+29P, As Sahah, Al Mughrizat, Riyadh 12483",Mosque,24.7675891,46.7206485
+558,مسجد حي النزهة,"'24.7584587', '46.7035586'","Hail, An Nuzhah, Riyadh 12473",Mosque,24.7584587,46.7035586
+559,Al-Otaibi Mosque,"'24.7649294', '46.7096075'","QP75+XXC, Al Misfarah, An Nuzhah, Riyadh 12474",Mosque,24.7649294,46.7096075
+560,Alsahabah mosque,"'24.7592869', '46.7143949'","QP57+PV8, Abi Ar Rida Al Baghdadi, An Nuzhah, Riyadh 12474",Mosque,24.7592869,46.7143949
+561,Al Farouq Grand Masjid,"'24.7537', '46.714923'","QP38+F3H, Saad Ibn Baishan, An Nuzhah, Riyadh 12472",Mosque,24.7537,46.714923
+562,Al Farouq Grand Masjid,"'24.7537', '46.714923'","QP38+F3H, Saad Ibn Baishan, An Nuzhah, Riyadh 12472",Mosque,24.7537,46.714923
+563,Al-Farouk Mosque,"'24.7537', '46.714923'","3805, An Nuzhah, Riyadh 12472",Mosque,24.7537,46.714923
+564,جامع الأمير فيصل بن محمد بن تركي آل سعود,"'24.754754', '46.7207128'","QP3C+WC2, Faraj Ibn Qasim, Al Mughrizat, Riyadh 12481",Mosque,24.754754,46.7207128
+565,Fatima Zahra Masjid,"'24.7423005', '46.6870156'","PMRP+WWG, Abi Dajanah, Al Mursilat, Riyadh 12461",Mosque,24.7423005,46.6870156
+566,Fatima Zahra Masjid,"'24.7423005', '46.6870156'","PMRP+WWG, Abi Dajanah, Al Mursilat, Riyadh 12461",Mosque,24.7423005,46.6870156
+567,مسجد الشيخ عثمان بن بشر - العلامة و المؤرخ,"'24.7399338', '46.6858428'","Ibn Shuraim, Al Mursalat, Riyadh 12461",Mosque,24.7399338,46.6858428
+568,مسجد المحمدية,"'24.7374473', '46.6435748'","PJPV+XGH، شارع جمال الدين الشاهد، حي المحمدية،, Riyadh 12364",Mosque,24.7374473,46.6435748
+569,مسجد اليابس,"'24.7405837', '46.6894299'","PMRQ+6VQ, Abi Al Qasim Al Banna, Al Mursalat, Riyadh 12461",Mosque,24.7405837,46.6894299
+570,مسجد حي الملك فهد,"'24.7393818', '46.6791997'","7140 محمد حامد الفقي، الملك فهد، الرياض 12272 4115،, Riyadh 12272",Mosque,24.7393818,46.6791997
+571,جامع الإمام المجدد الشيخ محمد بن عبدالوهاب رحمه الله,"'24.7369944', '46.6782464'","PMPH+QCV, شارع سعدون العواجي، حي, King Fahd, Riyadh 12272",Mosque,24.7369944,46.6782464
+572,جامع زيد بن حارثة,"'24.742408', '46.66488'","جامع زيد بن حارثة, King Fahd, Riyadh 12273",Mosque,24.742408,46.66488
+573,جامع الحمدان,"'24.7475806', '46.6727147'","جامع الحمدان، شارعه الأمير سعود بن سعود، حي الملك فهد, King Fahd, Riyadh 12274",Mosque,24.7475806,46.6727147
+574,جامع الحمدان,"'24.7475806', '46.6727147'","جامع الحمدان، شارعه الأمير سعود بن سعود، حي الملك فهد, King Fahd, Riyadh 12274",Mosque,24.7475806,46.6727147
+575,مسجد الإمام أحمد بن حنبل,"'24.751083', '46.6727463'","3462 Salit At Tamimi, King Fahd, Riyadh 12274 8443 Saleet Al Tamimi, 8443, King Fahd, Riyadh 12274",Mosque,24.751083,46.6727463
+576,مسجد أبي أيوب الأنصاري,"'24.748702', '46.6813106'","PMXJ+FJQ, Al Hayaniyah, Al Mursalat, Riyadh 12463",Mosque,24.748702,46.6813106
+577,King Abdullah Bin Abdul Aziz Mosque,"'24.7061836', '46.6554799'","6218 Al Urubah Rd, حي الرحمانية، 2898، Riyadh 12342",Mosque,24.7061836,46.6554799
+578,King Abdullah Bin Abdul Aziz Mosque,"'24.7061835', '46.6554799'","6218 Al Urubah Rd, حي الرحمانية، 2898، Riyadh 12342",Mosque,24.7061835,46.6554799
+579,مسجد سليمان آل الشيخ,"'24.7215298', '46.6771923'","PMCG+JX9، شارع ابي الفضل، حي الورود, Al Wurud, Riyadh 12251",Mosque,24.7215298,46.6771923
+580,Ali Bin Abi Talib Mosque,"'24.7194141', '46.6764776'","6660 Jaw Al Wurud Riyadh 12251 2971 Jaw, 2971, Al Wurud, Riyadh 12251",Mosque,24.7194141,46.6764776
+581,King Khalid Grand Mosque,"'24.7009662', '46.6522357'","PM23+92M، شارع أم الحمام، أم الحمام الغربي،, Riyadh 11564",Mosque,24.7009662,46.6522357
+582,King Abdullah Bin Abdul Aziz Mosque,"'24.7061836', '46.6554799'","6218 Al Urubah Rd, حي الرحمانية، 2898، Riyadh 12342",Mosque,24.7061836,46.6554799
+583,Mosque مسجد,"'24.7113149', '46.6358696'","3308 Ibn Al Naboulsi, Al Raed, حي, 7907, Riyadh 12355",Mosque,24.7113149,46.6358696
+584,مسجد الزيد,"'24.7029294', '46.6468693'","PJ3W+5VF, Al Raed, Riyadh 12351",Mosque,24.7029294,46.6468693
+585,King Khalid Grand Mosque,"'24.7009662', '46.6522357'","PM23+92M، شارع أم الحمام، أم الحمام الغربي،, Riyadh 11564",Mosque,24.7009662,46.6522357
+586,King Khalid Grand Mosque,"'24.7009662', '46.6522357'","PM23+92M، شارع أم الحمام، أم الحمام الغربي،, Riyadh 11564",Mosque,24.7009662,46.6522357
+587,Prince Mishal bin Abdulaziz Mosque,"'24.715704', '46.6048461'","PJ84+73J, Abdullah Ibn Saad, Al Khuzama, Riyadh 12582",Mosque,24.715704,46.6048461
+588,King Abdullah Bin Abdul Aziz Mosque,"'24.7061836', '46.6554799'","6218 Al Urubah Rd, حي الرحمانية، 2898، Riyadh 12342",Mosque,24.7061836,46.6554799
+589,Sheikh Mohammed bin Abdul Wahab Mosque,"'24.710279', '46.6140994'","PJ67+4Q6, Al Hawiyah, Al Khuzama, Riyadh 12581",Mosque,24.710279,46.6140994
+590,Al Wahhah Mosque,"'24.7394601', '46.7078765'","PPQ5+Q7M, Ibn Aabdulshakur, King Salman Neighborhood, Riyadh 12444",Mosque,24.7394601,46.7078765
+591,مسجد عثمان بن محمد العمر,"'24.7467621', '46.7160449'","3332 Shaddad Al Ansari, Al Wahah Riyadh 12445 8922 Shaddad Al Ansari, الواحة، Riyadh 12445",Mosque,24.7467621,46.7160449
+592,Fahad Al Owaidah Grand Mosque,"'24.7508921', '46.720676'","King Abdullah Branch Rd, الواحة، Riyadh 12445",Mosque,24.7508921,46.720676
+593,Othman Bin Affan Mosque,"'24.7448314', '46.7182126'","Aslam Ibn Umairah, King Salman Neighborhood, Riyadh 12445",Mosque,24.7448314,46.7182126
+594,Othman Bin Affan Mosque,"'24.7448314', '46.7182126'","Aslam Ibn Umairah, King Salman Neighborhood, Riyadh 12445",Mosque,24.7448314,46.7182126
+595,Salahuddin Mosque,"'24.7429936', '46.7060887'","PPV4+5HR, Nafi Al Ansari, King Salman Neighborhood, Riyadh 12444",Mosque,24.7429936,46.7060887
+596,Khalid Bin Al-Waleed Mosque,"'24.7460773', '46.7253883'","PPWG+C7M, Uthman Ibn Affan Rd, King Abdullah Dt., Riyadh 12451",Mosque,24.7460773,46.7253883
+597,Salah Al Deen Al Ayoubi Mosque,"'24.7621789', '46.7175633'","QP69+V4H, Yunis Ibn Al Khatib, Al Mughrizat, Riyadh 12483",Mosque,24.7621789,46.7175633
+598,Salah Al Deen Al Ayoubi Mosque,"'24.7621789', '46.7175633'","QP69+V4H, Yunis Ibn Al Khatib, Al Mughrizat, Riyadh 12483",Mosque,24.7621789,46.7175633
+599,جامع الشيخ محمد بن إبراهيم آل الشيخ,"'24.7611194', '46.7186308'","QP69+CHV, Abi Sufyan Ibn Harb, Al Mughrizat, Riyadh 12483",Mosque,24.7611194,46.7186308
+600,Masjed Alhamdan,"'24.7588141', '46.7186546'","2649 Sahban Waili, 6769, Al Mughrizat, 6769, Riyadh 12481",Mosque,24.7588141,46.7186546
+601,Neighborhood Mosque,"'24.7675891', '46.7206485'","QP9C+29P, As Sahah, Al Mughrizat, Riyadh 12483",Mosque,24.7675891,46.7206485
+602,Ahmad Jawad Alamdar Grand Masjid,"'24.7062378', '46.7039849'","PP43+FPV, As Sulimaniyah, Riyadh 12243",Mosque,24.7062378,46.7039849
+603,Masjid aleuz bin eabd alsalam,"'24.6982069', '46.7135227'","3491 Prince Musaad Bin Abdulaziz St، 7651, Riyadh 12233",Mosque,24.6982069,46.7135227
+604,مسجد Mosque,"'24.6986714', '46.6959534'","8045 Bakr Ibn An Nutah, As Sulimaniyah, Riyadh 12223",Mosque,24.6986714,46.6959534
+605,Neighborhood Mosque,"'24.7675891', '46.7206485'","QP9C+29P, As Sahah, Al Mughrizat, Riyadh 12483",Mosque,24.7675891,46.7206485
+606,King Abdulaziz Mosque,"'24.6880978', '46.6882006'","MMQQ+69Q, Olaya St, Al Olaya, Riyadh 12221",Mosque,24.6880978,46.6882006
+607,AlRawi Grand Mosque,"'24.6968952', '46.6862943'","Al Karimi, Al Olaya, Riyadh 12222",Mosque,24.6968952,46.6862943
+608,King Khalid Mosque,"'24.6910539', '46.6889951'","Prince Sultan Bin Abdulaziz Rd, Al Olaya, Riyadh 12222",Mosque,24.6910539,46.6889951
+609,Almaydani Mosque,"'24.7001385', '46.6795125'","PM2H+3W3, Al Olaya, Riyadh 12213",Mosque,24.7001385,46.6795125
+610,Prince Mohammed Bin Abdulaziz Mosque,"'24.6928244', '46.6663852'","MMV8+4MF, Ashiqar, Al Mathar Ash Shamali, Riyadh 12332",Mosque,24.6928244,46.6663852
+611,Almaydani Mosque,"'24.7001385', '46.6795125'","PM2H+3W3, Al Olaya, Riyadh 12213",Mosque,24.7001385,46.6795125
+612,Princess Hassa Bint Ahmad Sudairi Grand Mosque,"'24.6857631', '46.6695209'","MMP9+8W4, Prince Saad Ibn Saud ibn Faisal, Al Mathar Ash Shamali, Riyadh 12314",Mosque,24.6857631,46.6695209
+613,مسجد عبدالعزيز آل الشيخ,"'24.6958334', '46.6629793'","2999 Musa Ibn Nusair St, 6873, Al Mathar Ash Shamali, 2907, Riyadh 12332",Mosque,24.6958334,46.6629793
+614,مسجد قصر عائلة الامير محمد بن عبدالعزيز ال سعود,"'24.6938453', '46.6587314'","MMV5+GJJ, Umm Al Hamam Al Sharqi, Riyadh 12325",Mosque,24.6938453,46.6587314
+615,مسجد عبدالعزيز آل الشيخ,"'24.6958334', '46.6629793'","2999 Musa Ibn Nusair St, 6873, Al Mathar Ash Shamali, 2907, Riyadh 12332",Mosque,24.6958334,46.6629793
+616,Prince Mohammed Bin Abdulaziz Mosque,"'24.6928244', '46.6663852'","MMV8+4MF, Ashiqar, Al Mathar Ash Shamali, Riyadh 12332",Mosque,24.6928244,46.6663852
+617,King Khalid Grand Mosque,"'24.7009662', '46.6522357'","PM23+92M، شارع أم الحمام، أم الحمام الغربي،, Riyadh 11564",Mosque,24.7009662,46.6522357
+618,King Khalid Grand Mosque,"'24.7009662', '46.6522357'","PM23+92M، شارع أم الحمام، أم الحمام الغربي،, Riyadh 11564",Mosque,24.7009662,46.6522357
+619,Prince Mohammed Bin Abdulaziz Mosque,"'24.6928244', '46.6663852'","MMV8+4MF, Ashiqar, Al Mathar Ash Shamali, Riyadh 12332",Mosque,24.6928244,46.6663852
+620,جامع تركي بن عبدالرحمن بن عبدالله,"'24.6967656', '46.6596777'","MMW5+PX5, Al Mathar Ash Shamali, Riyadh 12334",Mosque,24.6967656,46.6596777
+621,King Abdullah Bin Abdul Aziz Mosque,"'24.7061836', '46.6554799'","6218 Al Urubah Rd, حي الرحمانية، 2898، Riyadh 12342",Mosque,24.7061836,46.6554799
+622,King Khalid Grand Mosque,"'24.7009662', '46.6522357'","PM23+92M، شارع أم الحمام، أم الحمام الغربي،, Riyadh 11564",Mosque,24.7009662,46.6522357
+623,Prince Majid bin Abdulaziz’s Mother’s Grand Mosque,"'24.5732067', '46.7514392'","HQF2+7MQ، Al Hair Road, Al Aziziyah, Al Aziziyah, Riyadh 14515",Mosque,24.5732067,46.7514392
+624,Abu Bakr Siddiq Al-Azizia district collector,"'24.5974008', '46.765422'","2870 البرقة، العزيزية الرياض 14511 7117 Al Bariqa, 7117, Al Aziziyah, Riyadh 14511",Mosque,24.5974008,46.765422
+625,Al-Bawardi Grand Mosque,"'24.5831129', '46.773712'","Soufian Ibn Aouf, Al Aziziyah, Riyadh 11564",Mosque,24.5831129,46.773712
+626,Al-Bawardi Grand Mosque,"'24.5831129', '46.773712'","Soufian Ibn Aouf, Al Aziziyah, Riyadh 11564",Mosque,24.5831129,46.773712
+627,جامع البواردي حي العزيزية الرياض المملكة العربية السعودية,"'24.5831129', '46.773712'","HQMF+7MC, Al Said, Al Aziziyah, Riyadh 14514",Mosque,24.5831129,46.773712
+628,جامع الأخوين,"'24.5864951', '46.7744156'","8788 Muti Ibn Amir, Al Aziziyah, Riyadh 14514 4845 Moutih Ibn Amer, 4845, Al Aziziyah, Riyadh 14514",Mosque,24.5864951,46.7744156
+629,مسجد الامام البخاري,"'24.5838168', '46.7701889'","4433 Ath Thaniy, Al Aziziyah, Riyadh 14514 8463 Ath Thaniy, 8463, Al Aziziyah, Riyadh 14514",Mosque,24.5838168,46.7701889
+630,مسجد حي بدر الجنوبي,"'24.5375035', '46.7025651'","3376 ADH Dhaymaran, 7089, Badr, Riyadh 14724",Mosque,24.5375035,46.7025651
+631,مسجد حي بدر ( الثاني ),"'24.546477', '46.7098152'","4162 Al Imam Malik Rd, Badr, Riyadh 14724",Mosque,24.546477,46.7098152
+632,Badr Neighborhood Mosque,"'24.6667396', '46.8739968'",7354، خشم العان، الرياض 14285 3856،,Mosque,24.6667396,46.8739968
+633,Swedish mosque,"'24.5953778', '46.6826436'","HMWM+554, Ibn Yaqub, As Suwaidi, Riyadh 12792",Mosque,24.5953778,46.6826436
+634,Hussaini Mosque,"'24.5913048', '46.6858247'","HMRP+GCH, Lisan Al Dine Al Khatib, Ad Duraihimiyah, Riyadh 12792",Mosque,24.5913048,46.6858247
+635,مسجد عبدالرحمن عثمان الدهش,"'24.5937572', '46.6804335'","HMVJ+G75, As Suwaidi, Riyadh 12793",Mosque,24.5937572,46.6804335
+636,مسجد جامع أسامة بن زيد,"'24.5945389', '46.6848082'","HMVP+R29, Abi Al Hasan Al Hamadhani, As Suwaidi, Riyadh 12792",Mosque,24.5945389,46.6848082
+637,King Abdulaziz Al-Saud Masjed,"'24.5879837', '46.6771155'","HMQG+5XV, Ibn Zahr, As Suwaidi, Riyadh 12793",Mosque,24.5879837,46.6771155
+638,Hussaini Mosque,"'24.5913048', '46.6858247'","HMRP+GCH, Lisan Al Dine Al Khatib, Ad Duraihimiyah, Riyadh 12792",Mosque,24.5913048,46.6858247
+639,Masjed Al Eieed,"'24.5861163', '46.6777191'","HMPH+C6R, Ibn Abdan, Shubra, Riyadh 12793",Mosque,24.5861163,46.6777191
+640,King Abdulaziz Al-Saud Masjed,"'24.5879837', '46.6771155'","HMQG+5XV, Ibn Zahr, As Suwaidi, Riyadh 12793",Mosque,24.5879837,46.6771155
+641,مسجد لطيفه بن حسن ال قعود,"'24.5883522', '46.6901668'","HMQR+85W, Ad Duraihimiyah, Riyadh 12797",Mosque,24.5883522,46.6901668
+642,مسجد فى حى المناخ,"'24.6026441', '46.8369658'","الطريق الدائري الشرقي، 7230،، حي المناخ،، RNCB4011، 4011, Riyadh 14316،",Mosque,24.6026441,46.8369658
+643,masjid khy almanakh,"'24.5999291', '46.8035652'","3786, 7367, Al-Manakh, Riyadh 14313",Mosque,24.5999291,46.8035652
+644,مسجد السهول حي المناخ,"'24.598659', '46.8009944'","3534 7225, Riyadh 14313",Mosque,24.598659,46.8009944
+645,Um Hatem Mosque,"'24.6223203', '46.7941166'","7817, Al-Manakh, Riyadh 14312",Mosque,24.6223203,46.7941166
+646,جامع عائشة بنت أبي بكر الصديق رضي الله عنهم,"'24.45192', '46.7425424'","FP2V+Q48, Uraidh, Riyadh 14753",Mosque,24.45192,46.7425424
+647,جامع قديم,"'24.3901901', '46.7634981'","9QR7+3GF, Uraidh, Riyadh 14791",Mosque,24.3901901,46.7634981
+648,مسجد قباء,"'24.5572604', '46.7930132'",4192، 6930 وادي نعام الدار البيضاء الرياض 14518 4192,Mosque,24.5572604,46.7930132
+649,مسجد,"'24.4883227', '46.7748124'",3893، عريض، الرياض 14751 6802، 14751,Mosque,24.4883227,46.7748124
+650,مسجد مصعب بن عمير,"'24.5748206', '46.8312078'",7652 رقم 6، الاسكان الرياض 14317,Mosque,24.5748206,46.8312078
+651,جامع الزبير بن العوام رضي الله عنه اسكان طريق الخرج,"'24.5771449', '46.8452135'","6347 رقم 53, Al Iskan, 3086, Riyadh 14318",Mosque,24.5771449,46.8452135
+652,مسجد شارع 8,"'24.5773763', '46.8308816'","2445 رقم 8، 7912, Al Iskan, Riyadh 14317",Mosque,24.5773763,46.8308816
+653,Alnmer Mosque,"'24.5647632', '46.8514825'","HV72+WP2, Al Iskan, Riyadh 14317",Mosque,24.5647632,46.8514825
+654,جامع عبدالله محمد ال صياح السبيعي,"'24.4099279', '46.8450964'","CR5W+X5C, Al Haeer, Riyadh 14581",Mosque,24.4099279,46.8450964
+655,مسجد البنداري,"'24.4047143', '46.8473112'","CR3X+V2Q, Al Hair, Riyadh 14581",Mosque,24.4047143,46.8473112
+656,مسجد الهدية,"'24.567835', '46.7534379'","6810 Al Haeer Rd, Al-Masani', Riyadh 14714",Mosque,24.567835,46.7534379
+657,مصلى منتزه الحائر العام,"'24.4214365', '46.8339085'","5653 Al Haeer Rd، حي الحائر، RMHB7026، 7026, Riyadh 14765",Mosque,24.4214365,46.8339085
+658,مسجدالرفاع,"'24.537952', '46.6685027'","3018, Al Marwah, Riyadh 14722",Mosque,24.537952,46.6685027
+659,مسجد المروة,"'24.5528053', '46.6753613'","HM3G+47F, Al Marwah, Riyadh 14721",Mosque,24.5528053,46.6753613
+660,المسجد,"'24.5501799', '46.678398'","HM2H+3FG, Al Marwah, Riyadh 12421",Mosque,24.5501799,46.678398
+661,Sarah Fawaz Mosque,"'24.5458057', '46.6721508'","GMWC+8XG, Al Diwan, Al Marwah, Riyadh 14722",Mosque,24.5458057,46.6721508
+662,"Ihsan Mosque district of Riyadh, Okaz","'24.5187641', '46.6721857'","GM9C+GX5, Uqadh, Riyadh 14726",Mosque,24.5187641,46.6721857
+663,Sarah Fawaz Mosque,"'24.5458057', '46.6721508'","GMWC+8XG, Al Diwan, Al Marwah, Riyadh 14722",Mosque,24.5458057,46.6721508
+664,جامع التقوى,"'24.5156648', '46.662341'","GM87+736, Uqadh, Riyadh 14723",Mosque,24.5156648,46.662341
+665,Masjid Sheikh Al-Islam ibn Taymiyyah,"'24.5311153', '46.6634772'","7987 Ghabah, Uqadh, Riyadh 14723",Mosque,24.5311153,46.6634772
+666,Prince Sultan Mosque complete authority,"'24.6004062', '46.6922179'","6388 Zalul, Sultanah, Riyadh 12777",Mosque,24.6004062,46.6922179
+667,Masjid Sheikh Al-Islam ibn Taymiyyah,"'24.5311153', '46.6634772'","7987 Ghabah, Uqadh, Riyadh 14723",Mosque,24.5311153,46.6634772
+668,مسجد جامع سلطانة القديم,"'24.6071594', '46.6868091'","JM4P+VR9, 3720, Sultanah, Riyadh 3720",Mosque,24.6071594,46.6868091
+669,Al-Massad Mosque,"'24.5996905', '46.6836517'","HMXM+VHG, Al Abd Al Qader, Sultanah, Riyadh 12776",Mosque,24.5996905,46.6836517
+670,جامع المدينة الصناعية مدن,"'24.5522857', '46.8892542'","HV2Q+WR7, New Industrial Area, Riyadh 14334",Mosque,24.5522857,46.8892542
+671,Masjed Almadinah,"'24.6150246', '46.6851498'",6226، 3046، البديعة، الرياض 12748,Mosque,24.6150246,46.6851498
+672,جامع العييد,"'24.5531591', '46.8678046'","HV39+769, New Industrial Area, Riyadh 14331",Mosque,24.5531591,46.8678046
+673,مسجد,"'24.5699782', '46.880777'","HV9J+XCW, New Industrial Area, Riyadh 14332",Mosque,24.5699782,46.880777
+674,مسجد أسواق عتيقة,"'24.601786', '46.7064851'","7837 Saad Ibn Suwaid, Utaiqah, Riyadh 12671",Mosque,24.601786,46.7064851
+675,مسجد,"'24.598376', '46.7046622'","HPX3+9X4, Utaiqah, Riyadh 12671",Mosque,24.598376,46.7046622
+676,مسجد الخريجي الجنوبي,"'24.5918343', '46.7108676'","HPR6+PFM, Yaqub Mansur, Utaiqah, Riyadh 12673",Mosque,24.5918343,46.7108676
+677,مسجد عتيقة,"'24.6039751', '46.7098362'","2695, 8087, Utaiqah, Riyadh 12671",Mosque,24.6039751,46.7098362
