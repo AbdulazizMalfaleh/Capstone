@@ -18,3 +18,8 @@ Data was collected from various sources, focusing on the following aspects:
 -Property prices
 -Open data
 -Data on schools and mosques
+
+### *Team members:*
+- Eng.Rayan Alshehri
+- Eng.Abdualziz Alfaleh
+- Eng.Mohammed Almoulami
